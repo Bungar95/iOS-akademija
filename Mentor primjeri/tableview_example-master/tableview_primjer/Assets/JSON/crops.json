@@ -1,0 +1,118 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Voćarstvo",
+            "slug": "Other",
+            "crops": [
+                {
+                    "id": 4,
+                    "name": "Jabuka",
+                    "short_description": "<p>2131</p>",
+                    "enabled_for_crop_info": true,
+                    "enabled_for_fert_calculator": true,
+                    "enabled_for_field_activity": false,
+                    "group": {
+                        "id": 1,
+                        "name": "Ostalo",
+                        "slug": "Other"
+                    },
+                    "image": {
+                        "filename": "apple.jpg",
+                        "url": "http://localhost:8000/attachments/ixul7nyb1p66fswqh246ocbc/apple.jpg",
+                        "uuid": "ixul7nyb1p66fswqh246ocbc"
+                    },
+                    "updated_at": {
+                        "display": "27 September 2019",
+                        "date": "2019-09-27",
+                        "datetime": "2019-09-27 08:43:21",
+                        "timestamp": 1569573801,
+                        "datepicker_format": "09/27/2019 08:43 am"
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "Kruška",
+                    "short_description": "<p>2131</p>",
+                    "enabled_for_crop_info": true,
+                    "enabled_for_fert_calculator": true,
+                    "enabled_for_field_activity": true,
+                    "group": {
+                        "id": 1,
+                        "name": "Ostalo",
+                        "slug": "Other"
+                    },
+                    "image": {
+                        "filename": "pear.jpg",
+                        "url": "http://localhost:8000/attachments/z8h2ilpc3p827zd34mr6ey7y/pear.jpg",
+                        "uuid": "z8h2ilpc3p827zd34mr6ey7y"
+                    },
+                    "updated_at": {
+                        "display": "27 September 2019",
+                        "date": "2019-09-27",
+                        "datetime": "2019-09-27 08:43:10",
+                        "timestamp": 1569573790,
+                        "datepicker_format": "09/27/2019 08:43 am"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Ostalo",
+            "slug": "Fruit",
+            "crops": [
+                {
+                    "id": 6,
+                    "name": "Naranča",
+                    "short_description": "<p>23</p>",
+                    "enabled_for_crop_info": true,
+                    "enabled_for_fert_calculator": true,
+                    "enabled_for_field_activity": true,
+                    "group": {
+                        "id": 4,
+                        "name": "Voćarstvo",
+                        "slug": "Fruit"
+                    },
+                    "image": {
+                        "filename": "orange.jpg",
+                        "url": "http://localhost:8000/attachments/4rvdg4yl7xlq9bhhwxt7bnshj/orange.jpg",
+                        "uuid": "4rvdg4yl7xlq9bhhwxt7bnshj"
+                    },
+                    "updated_at": {
+                        "display": " 9 October 2019",
+                        "date": "2019-10-09",
+                        "datetime": "2019-10-09 11:11:58",
+                        "timestamp": 1570619518,
+                        "datepicker_format": "10/09/2019 11:11 am"
+                    }
+                },
+                {
+                    "id": 7,
+                    "name": "Limun",
+                    "short_description": "<p>aaq</p>",
+                    "enabled_for_crop_info": true,
+                    "enabled_for_fert_calculator": true,
+                    "enabled_for_field_activity": true,
+                    "group": {
+                        "id": 1,
+                        "name": "Ostalo",
+                        "slug": "Other"
+                    },
+                    "image": {
+                        "filename": "lemon.jpeg",
+                        "url": "http://localhost:8000/attachments/9qks64e3gpwjofk4tbzzph8x1/lemon.jpeg",
+                        "uuid": "9qks64e3gpwjofk4tbzzph8x1"
+                    },
+                    "updated_at": {
+                        "display": "27 September 2019",
+                        "date": "2019-09-27",
+                        "datetime": "2019-09-27 09:42:51",
+                        "timestamp": 1569577371,
+                        "datepicker_format": "09/27/2019 09:42 am"
+                    }
+                }
+            ]
+        }
+    ]
+}

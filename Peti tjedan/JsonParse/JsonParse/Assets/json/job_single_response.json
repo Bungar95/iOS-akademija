@@ -1,0 +1,305 @@
+{
+  "status": "success",
+  "data": {
+    "id": 10836,
+    "user_id": 9608,
+    "title": "Šetač pasa<sup>(m/ž)</sup>",
+    "subtitle": "plaćen smještaj",
+    "description": "<p>test</p>",
+    "workers_needed": "1",
+    "number_of_hours": null,
+    "job_image": 8299,
+    "ad_duration": "2020-10-20 00:00:00",
+    "working_time_type": 1,
+    "job_start": null,
+    "job_end": null,
+    "status": "published",
+    "created_at": "2020-04-06 11:38:55",
+    "updated_at": "2020-04-06 11:57:58",
+    "employer_location": 2431,
+    "slug": "setac-pasa",
+    "notified_rejections": null,
+    "notified_inactivation": null,
+    "tag": null,
+    "updatable": null,
+    "hidden": 0,
+    "custom_login_link": null,
+    "dispatched_for_saved_searches": null,
+    "can_see": true,
+    "job_link": "https://dev.danasradim.hr/posao/setac-pasa",
+    "user_location": {
+      "id": 2431,
+      "user_id": 9608,
+      "geo_location_id": 325,
+      "contact_person": 247,
+      "location_type": "job_location",
+      "address": null,
+      "zip_code": null,
+      "created_at": "2018-07-06 11:35:24",
+      "updated_at": "2018-07-06 11:44:10",
+      "lat": 45.5549624,
+      "lng": 18.6955144,
+      "custom_name": "Nova testna lokacija",
+      "geo_location": {
+        "id": 325,
+        "title": "Osijek",
+        "place_id": "ChIJdYByaajnXEcRlRGkIVZyjFs",
+        "gogole_id": null,
+        "lat": 45.5549624,
+        "lng": 18.6955144,
+        "county_id": 14,
+        "created_at": null,
+        "updated_at": null,
+        "country": 1,
+        "post_code": "31000",
+        "county": {
+          "id": 14,
+          "name": "Osječko-baranjska županija",
+          "country": {
+            "id": 1,
+            "name": "Hrvatska",
+            "code": "hr",
+            "iso": "hr",
+            "zone": "eu",
+            "created_at": null,
+            "updated_at": null
+          }
+        }
+      }
+    },
+    "user": {
+      "id": 9608,
+      "first_name": "Poslodava",
+      "last_name": "Poslodavac",
+      "email": "poslodavac1234@harakirimail.com",
+      "last_login": null,
+      "user_type": 2,
+      "confirmed": "confirmed",
+      "creation_token": null,
+      "created_at": "2018-05-23 11:02:17",
+      "updated_at": "2020-04-22 08:49:06",
+      "student_center": null,
+      "dob": null,
+      "pupil_center": null,
+      "status": "activated",
+      "slug": "tvrtka-d-o-o",
+      "logo": [
+        {
+          "id": 8292,
+          "user_id": 9608,
+          "meta_key": "logo_image",
+          "value": "8292",
+          "created_at": "2020-03-27 13:32:40",
+          "updated_at": "2020-03-27 13:32:40",
+          "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+          "width": 250,
+          "height": 216,
+          "file_type": "png",
+          "storage_type": "s3",
+          "file_size": 24046,
+          "image_name": "a2619cf78c3743c2207cf34f04735cea",
+          "sizes": [
+            {
+              "name": "thumb",
+              "width": 180,
+              "height": 180,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+              "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+            },
+            {
+              "name": "default",
+              "width": 900,
+              "quality": 90,
+              "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+            }
+          ]
+        }
+      ],
+      "company_name": [
+        {
+          "id": 11713,
+          "user_id": 9608,
+          "meta_key": "company_name",
+          "value": "Tvrtka d.o.o.",
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2018-08-16 07:06:01"
+        }
+      ]
+    },
+    "medium": {
+      "id": 8299,
+      "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/1fde3b7b1d5cf1fcec80ad07521826c2default.jpeg",
+      "width": 1494,
+      "height": 996,
+      "file_type": "jpeg",
+      "storage_type": "s3",
+      "file_size": 86435,
+      "created_at": "2020-04-06 11:38:55",
+      "updated_at": "2020-04-06 11:38:55",
+      "image_name": "1fde3b7b1d5cf1fcec80ad07521826c2",
+      "sizes": [
+        {
+          "name": "big",
+          "width": 900,
+          "height": 600,
+          "image_name": "1fde3b7b1d5cf1fcec80ad07521826c2900x600.jpeg",
+          "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/1fde3b7b1d5cf1fcec80ad07521826c2900x600.jpeg",
+          "relative_file_path": "images/1fde3b7b1d5cf1fcec80ad07521826c2900x600.jpeg"
+        },
+        {
+          "name": "small",
+          "width": 330,
+          "height": 220,
+          "image_name": "1fde3b7b1d5cf1fcec80ad07521826c2330x220.jpeg",
+          "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/1fde3b7b1d5cf1fcec80ad07521826c2330x220.jpeg",
+          "relative_file_path": "images/1fde3b7b1d5cf1fcec80ad07521826c2330x220.jpeg"
+        },
+        {
+          "name": "thumb",
+          "width": 180,
+          "height": 180,
+          "image_name": "1fde3b7b1d5cf1fcec80ad07521826c2180x180.jpeg",
+          "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/1fde3b7b1d5cf1fcec80ad07521826c2180x180.jpeg",
+          "relative_file_path": "images/1fde3b7b1d5cf1fcec80ad07521826c2180x180.jpeg"
+        },
+        {
+          "name": "default",
+          "width": 900,
+          "quality": 90,
+          "image_name": "1fde3b7b1d5cf1fcec80ad07521826c2default.jpeg",
+          "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/1fde3b7b1d5cf1fcec80ad07521826c2default.jpeg",
+          "relative_file_path": "images/1fde3b7b1d5cf1fcec80ad07521826c2default.jpeg"
+        }
+      ]
+    },
+    "job_benefits": [
+      {
+        "id": 23172,
+        "job_id": 10836,
+        "benefit_id": 7,
+        "created_at": "2020-04-06 11:57:58",
+        "updated_at": "2020-04-06 11:57:58",
+        "benefit": {
+          "id": 7,
+          "name": "Edukacija",
+          "created_at": null,
+          "updated_at": null,
+          "slug": "edukacija"
+        }
+      }
+    ],
+    "job_certificates": [
+      {
+        "id": 799,
+        "job_id": 10836,
+        "certificate_id": 5,
+        "created_at": "2020-04-06 11:39:07",
+        "updated_at": "2020-04-06 11:39:07",
+        "certificate": {
+          "id": 5,
+          "name": "Potvrda o nekažnjavanju",
+          "created_at": null,
+          "updated_at": null
+        }
+      }
+    ],
+    "job_languages": [
+      {
+        "id": 691,
+        "job_id": 10836,
+        "language_id": 129,
+        "understanding": null,
+        "speaking": null,
+        "writing": null,
+        "created_at": "2020-04-06 11:39:10",
+        "updated_at": "2020-04-06 11:39:10",
+        "score": null,
+        "language": {
+          "id": 129,
+          "name": "engleski",
+          "code": "en"
+        }
+      }
+    ],
+    "job_offers_meta": [],
+    "job_skills": [
+      {
+        "id": 1570,
+        "job_id": 10836,
+        "skill_id": 309,
+        "created_at": "2020-04-06 11:39:05",
+        "updated_at": "2020-04-06 11:39:05",
+        "skill": {
+          "id": 309,
+          "name": "Trener",
+          "parent": 259,
+          "created_at": null,
+          "updated_at": null
+        }
+      }
+    ],
+    "job_working_hours": [],
+    "job_finances": [
+      {
+        "id": 1628,
+        "job_offer_id": 10836,
+        "finances_type": 2,
+        "amount": 50,
+        "created_at": "2020-04-06 11:39:01",
+        "updated_at": "2020-04-06 11:39:01",
+        "amount_formatted": "50,00 kn / sat"
+      }
+    ],
+    "job_employee_categories": [
+      {
+        "id": 28601,
+        "job_id": 10836,
+        "employee_category_id": 5,
+        "created_at": "2020-04-06 11:57:58",
+        "updated_at": "2020-04-06 11:57:58",
+        "employee_category": {
+          "id": 5,
+          "employee_type": "other",
+          "order": 50,
+          "created_at": null,
+          "updated_at": null,
+          "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+        }
+      }
+    ],
+    "job_offer_categories": [
+      {
+        "id": 349,
+        "job_id": 10836,
+        "category_id": 8,
+        "created_at": "2020-04-06 11:57:58",
+        "updated_at": "2020-04-06 11:57:58",
+        "user_id": 9608,
+        "job_category": {
+          "id": 8,
+          "name": "Sezonski posao 2020.",
+          "slug": "sezonski-posao-2020",
+          "created_at": "2020-02-04 00:00:00",
+          "updated_at": "2020-02-04 00:00:00"
+        }
+      }
+    ],
+    "job_offer_impression_counter": {
+      "id": 15,
+      "created_at": "2020-07-14 17:42:50",
+      "updated_at": "2020-07-29 15:06:50",
+      "job_id": 10836,
+      "counter": 152
+    },
+    "job_offer_applications_counter": {
+      "id": 30,
+      "created_at": "2020-07-22 12:39:58",
+      "updated_at": "2020-07-22 12:47:03",
+      "job_id": 10836,
+      "counter": 6
+    }
+  }
+}

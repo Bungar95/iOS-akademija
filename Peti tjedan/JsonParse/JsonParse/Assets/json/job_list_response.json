@@ -1,0 +1,5780 @@
+{
+  "status": "success",
+  "data": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": 10836,
+        "user_id": 9608,
+        "title": "Šetač pasa<sup>(m/ž)</sup>",
+        "subtitle": "plaćen smještaj",
+        "description": "<p>test</p>",
+        "workers_needed": "1",
+        "number_of_hours": null,
+        "job_image": 8299,
+        "ad_duration": "2020-10-20 00:00:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2020-04-06 11:38:55",
+        "updated_at": "2020-04-06 11:57:58",
+        "employer_location": 2431,
+        "slug": "setac-pasa",
+        "notified_rejections": null,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": null,
+        "job_link": "https://dev.danasradim.hr/posao/setac-pasa",
+        "user_location": {
+          "id": 2431,
+          "user_id": 9608,
+          "geo_location_id": 325,
+          "contact_person": 247,
+          "location_type": "job_location",
+          "address": null,
+          "zip_code": null,
+          "created_at": "2018-07-06 11:35:24",
+          "updated_at": "2018-07-06 11:44:10",
+          "lat": 45.5549624,
+          "lng": 18.6955144,
+          "custom_name": "Nova testna lokacija",
+          "geo_location": {
+            "id": 325,
+            "title": "Osijek",
+            "place_id": "ChIJdYByaajnXEcRlRGkIVZyjFs",
+            "gogole_id": null,
+            "lat": 45.5549624,
+            "lng": 18.6955144,
+            "county_id": 14,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "31000",
+            "county": {
+              "id": 14,
+              "name": "Osječko-baranjska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": {
+          "id": 9608,
+          "first_name": "Poslodava",
+          "last_name": "Poslodavac",
+          "email": "poslodavac1234@harakirimail.com",
+          "last_login": null,
+          "user_type": 2,
+          "confirmed": "confirmed",
+          "creation_token": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2020-04-22 08:49:06",
+          "student_center": null,
+          "dob": null,
+          "pupil_center": null,
+          "status": "activated",
+          "slug": "tvrtka-d-o-o",
+          "logo": [
+            {
+              "id": 8292,
+              "user_id": 9608,
+              "meta_key": "logo_image",
+              "value": "8292",
+              "created_at": "2020-03-27 13:32:40",
+              "updated_at": "2020-03-27 13:32:40",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "width": 250,
+              "height": 216,
+              "file_type": "png",
+              "storage_type": "s3",
+              "file_size": 24046,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea",
+              "sizes": [
+                {
+                  "name": "thumb",
+                  "width": 180,
+                  "height": 180,
+                  "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+                },
+                {
+                  "name": "default",
+                  "width": 900,
+                  "quality": 90,
+                  "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+                }
+              ]
+            }
+          ],
+          "company_name": [
+            {
+              "id": 11713,
+              "user_id": 9608,
+              "meta_key": "company_name",
+              "value": "Tvrtka d.o.o.",
+              "created_at": "2018-05-23 11:02:17",
+              "updated_at": "2018-08-16 07:06:01"
+            }
+          ]
+        },
+        "medium": {
+          "id": 8299,
+          "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/1fde3b7b1d5cf1fcec80ad07521826c2default.jpeg",
+          "width": 1494,
+          "height": 996,
+          "file_type": "jpeg",
+          "storage_type": "s3",
+          "file_size": 86435,
+          "created_at": "2020-04-06 11:38:55",
+          "updated_at": "2020-04-06 11:38:55",
+          "image_name": "1fde3b7b1d5cf1fcec80ad07521826c2",
+          "sizes": [
+            {
+              "name": "big",
+              "width": 900,
+              "height": 600,
+              "image_name": "1fde3b7b1d5cf1fcec80ad07521826c2900x600.jpeg",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/1fde3b7b1d5cf1fcec80ad07521826c2900x600.jpeg",
+              "relative_file_path": "images/1fde3b7b1d5cf1fcec80ad07521826c2900x600.jpeg"
+            },
+            {
+              "name": "small",
+              "width": 330,
+              "height": 220,
+              "image_name": "1fde3b7b1d5cf1fcec80ad07521826c2330x220.jpeg",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/1fde3b7b1d5cf1fcec80ad07521826c2330x220.jpeg",
+              "relative_file_path": "images/1fde3b7b1d5cf1fcec80ad07521826c2330x220.jpeg"
+            },
+            {
+              "name": "thumb",
+              "width": 180,
+              "height": 180,
+              "image_name": "1fde3b7b1d5cf1fcec80ad07521826c2180x180.jpeg",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/1fde3b7b1d5cf1fcec80ad07521826c2180x180.jpeg",
+              "relative_file_path": "images/1fde3b7b1d5cf1fcec80ad07521826c2180x180.jpeg"
+            },
+            {
+              "name": "default",
+              "width": 900,
+              "quality": 90,
+              "image_name": "1fde3b7b1d5cf1fcec80ad07521826c2default.jpeg",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/1fde3b7b1d5cf1fcec80ad07521826c2default.jpeg",
+              "relative_file_path": "images/1fde3b7b1d5cf1fcec80ad07521826c2default.jpeg"
+            }
+          ]
+        },
+        "job_benefits": [
+          {
+            "id": 23172,
+            "job_id": 10836,
+            "benefit_id": 7,
+            "created_at": "2020-04-06 11:57:58",
+            "updated_at": "2020-04-06 11:57:58",
+            "benefit": {
+              "id": 7,
+              "name": "Edukacija",
+              "created_at": null,
+              "updated_at": null,
+              "slug": "edukacija"
+            }
+          }
+        ],
+        "job_certificates": [
+          {
+            "id": 799,
+            "job_id": 10836,
+            "certificate_id": 5,
+            "created_at": "2020-04-06 11:39:07",
+            "updated_at": "2020-04-06 11:39:07",
+            "certificate": {
+              "id": 5,
+              "name": "Potvrda o nekažnjavanju",
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_languages": [
+          {
+            "id": 691,
+            "job_id": 10836,
+            "language_id": 129,
+            "understanding": null,
+            "speaking": null,
+            "writing": null,
+            "created_at": "2020-04-06 11:39:10",
+            "updated_at": "2020-04-06 11:39:10",
+            "score": null,
+            "language": {
+              "id": 129,
+              "name": "engleski",
+              "code": "en"
+            }
+          }
+        ],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 1570,
+            "job_id": 10836,
+            "skill_id": 309,
+            "created_at": "2020-04-06 11:39:05",
+            "updated_at": "2020-04-06 11:39:05",
+            "skill": {
+              "id": 309,
+              "name": "Trener",
+              "parent": 259,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 1628,
+            "job_offer_id": 10836,
+            "finances_type": 2,
+            "amount": 50,
+            "created_at": "2020-04-06 11:39:01",
+            "updated_at": "2020-04-06 11:39:01",
+            "amount_formatted": "50,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [
+          {
+            "id": 28601,
+            "job_id": 10836,
+            "employee_category_id": 5,
+            "created_at": "2020-04-06 11:57:58",
+            "updated_at": "2020-04-06 11:57:58",
+            "employee_category": {
+              "id": 5,
+              "employee_type": "other",
+              "order": 50,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+            }
+          }
+        ],
+        "job_offer_categories": [
+          {
+            "id": 349,
+            "job_id": 10836,
+            "category_id": 8,
+            "created_at": "2020-04-06 11:57:58",
+            "updated_at": "2020-04-06 11:57:58",
+            "user_id": 9608,
+            "job_category": {
+              "id": 8,
+              "name": "Sezonski posao 2020.",
+              "slug": "sezonski-posao-2020",
+              "created_at": "2020-02-04 00:00:00",
+              "updated_at": "2020-02-04 00:00:00"
+            }
+          }
+        ],
+        "job_offer_impression_counter": {
+          "id": 15,
+          "created_at": "2020-07-14 17:42:50",
+          "updated_at": "2020-07-29 14:48:11",
+          "job_id": 10836,
+          "counter": 151
+        },
+        "job_offer_applications_counter": {
+          "id": 30,
+          "created_at": "2020-07-22 12:39:58",
+          "updated_at": "2020-07-22 12:47:03",
+          "job_id": 10836,
+          "counter": 6
+        }
+      },
+      {
+        "id": 1543,
+        "user_id": null,
+        "title": "Testiranje jumbo oglasa task 842<sup>(m/ž)</sup>",
+        "subtitle": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium",
+        "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni.</span></p>",
+        "workers_needed": "3",
+        "number_of_hours": null,
+        "job_image": 2090,
+        "ad_duration": "2025-04-30 00:00:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2018-03-23 15:04:28",
+        "updated_at": "2018-05-02 12:00:02",
+        "employer_location": 448,
+        "slug": "testes",
+        "notified_rejections": 1,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": null,
+        "job_link": "https://dev.danasradim.hr/posao/testes",
+        "user_location": {
+          "id": 448,
+          "user_id": null,
+          "geo_location_id": 321,
+          "contact_person": null,
+          "location_type": "headquarters",
+          "address": "Test 33",
+          "zip_code": null,
+          "created_at": "2018-03-21 11:58:39",
+          "updated_at": "2018-03-26 07:20:05",
+          "lat": null,
+          "lng": null,
+          "custom_name": null,
+          "geo_location": {
+            "id": 321,
+            "title": "Belišće",
+            "place_id": "ChIJEUSXmw8jXUcRe6yo_AU6LhQ",
+            "gogole_id": null,
+            "lat": 45.6845016,
+            "lng": 18.4023567,
+            "county_id": 14,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "31551",
+            "county": {
+              "id": 14,
+              "name": "Osječko-baranjska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": null,
+        "medium": {
+          "id": 2090,
+          "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/36e090b504a9e02eef66cf47ef2ed4ebdefault.jpeg",
+          "width": 664,
+          "height": 996,
+          "file_type": "jpeg",
+          "storage_type": "s3",
+          "file_size": 72050,
+          "created_at": "2018-03-26 07:01:38",
+          "updated_at": "2018-03-26 07:01:38",
+          "image_name": "36e090b504a9e02eef66cf47ef2ed4eb",
+          "sizes": [
+            {
+              "name": "big",
+              "width": 900,
+              "height": 600,
+              "image_name": "36e090b504a9e02eef66cf47ef2ed4eb900x600.jpeg",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/36e090b504a9e02eef66cf47ef2ed4eb900x600.jpeg",
+              "relative_file_path": "images/36e090b504a9e02eef66cf47ef2ed4eb900x600.jpeg"
+            },
+            {
+              "name": "small",
+              "width": 330,
+              "height": 220,
+              "image_name": "36e090b504a9e02eef66cf47ef2ed4eb330x220.jpeg",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/36e090b504a9e02eef66cf47ef2ed4eb330x220.jpeg",
+              "relative_file_path": "images/36e090b504a9e02eef66cf47ef2ed4eb330x220.jpeg"
+            },
+            {
+              "name": "thumb",
+              "width": 180,
+              "height": 180,
+              "image_name": "36e090b504a9e02eef66cf47ef2ed4eb180x180.jpeg",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/36e090b504a9e02eef66cf47ef2ed4eb180x180.jpeg",
+              "relative_file_path": "images/36e090b504a9e02eef66cf47ef2ed4eb180x180.jpeg"
+            },
+            {
+              "name": "default",
+              "width": 900,
+              "quality": 90,
+              "image_name": "36e090b504a9e02eef66cf47ef2ed4ebdefault.jpeg",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/36e090b504a9e02eef66cf47ef2ed4ebdefault.jpeg",
+              "relative_file_path": "images/36e090b504a9e02eef66cf47ef2ed4ebdefault.jpeg"
+            }
+          ]
+        },
+        "job_benefits": [],
+        "job_certificates": [
+          {
+            "id": 342,
+            "job_id": 1543,
+            "certificate_id": 4,
+            "created_at": "2018-03-23 15:04:33",
+            "updated_at": "2018-03-23 15:04:33",
+            "certificate": {
+              "id": 4,
+              "name": "Umirovljenička knjižica",
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_languages": [
+          {
+            "id": 312,
+            "job_id": 1543,
+            "language_id": 109,
+            "understanding": null,
+            "speaking": null,
+            "writing": null,
+            "created_at": "2018-03-26 06:57:50",
+            "updated_at": "2018-03-26 06:57:51",
+            "score": "b1",
+            "language": {
+              "id": 109,
+              "name": "češki",
+              "code": "cs"
+            }
+          }
+        ],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 355,
+            "job_id": 1543,
+            "skill_id": 300,
+            "created_at": "2018-03-26 07:00:02",
+            "updated_at": "2018-03-26 07:00:02",
+            "skill": {
+              "id": 300,
+              "name": "Vloger",
+              "parent": 259,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 573,
+            "job_offer_id": 1543,
+            "finances_type": 2,
+            "amount": 600,
+            "created_at": "2018-03-26 07:13:32",
+            "updated_at": "2018-03-26 07:13:32",
+            "amount_formatted": "600,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [],
+        "job_offer_categories": [],
+        "job_offer_impression_counter": {
+          "id": 40,
+          "created_at": "2020-07-15 14:50:45",
+          "updated_at": "2020-07-29 14:48:21",
+          "job_id": 1543,
+          "counter": 66
+        },
+        "job_offer_applications_counter": null
+      },
+      {
+        "id": 10920,
+        "user_id": 9608,
+        "title": "test posao test 3<sup>(m/ž)</sup>",
+        "subtitle": "plaćen smještaj i hrana",
+        "description": "<p>ovo je opis posla</p>",
+        "workers_needed": "2",
+        "number_of_hours": null,
+        "job_image": null,
+        "ad_duration": "2020-09-17 00:00:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2020-05-08 09:32:55",
+        "updated_at": "2020-06-03 10:15:09",
+        "employer_location": 7511,
+        "slug": "test-440",
+        "notified_rejections": null,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": 1,
+        "job_link": "https://dev.danasradim.hr/posao/test-440",
+        "user_location": {
+          "id": 7511,
+          "user_id": 9608,
+          "geo_location_id": 467,
+          "contact_person": 469,
+          "location_type": "job_location",
+          "address": "Adresa Rz3200",
+          "zip_code": null,
+          "created_at": "2018-10-26 08:51:13",
+          "updated_at": "2018-10-26 08:51:17",
+          "lat": 45.4082114,
+          "lng": 13.6589423,
+          "custom_name": "Nova lokacija N756",
+          "geo_location": {
+            "id": 467,
+            "title": "Buje",
+            "place_id": "",
+            "gogole_id": null,
+            "lat": 45.408752,
+            "lng": 13.657394,
+            "county_id": 18,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "52460",
+            "county": {
+              "id": 18,
+              "name": "Istarska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": {
+          "id": 9608,
+          "first_name": "Poslodava",
+          "last_name": "Poslodavac",
+          "email": "poslodavac1234@harakirimail.com",
+          "last_login": null,
+          "user_type": 2,
+          "confirmed": "confirmed",
+          "creation_token": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2020-04-22 08:49:06",
+          "student_center": null,
+          "dob": null,
+          "pupil_center": null,
+          "status": "activated",
+          "slug": "tvrtka-d-o-o",
+          "logo": [
+            {
+              "id": 8292,
+              "user_id": 9608,
+              "meta_key": "logo_image",
+              "value": "8292",
+              "created_at": "2020-03-27 13:32:40",
+              "updated_at": "2020-03-27 13:32:40",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "width": 250,
+              "height": 216,
+              "file_type": "png",
+              "storage_type": "s3",
+              "file_size": 24046,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea",
+              "sizes": [
+                {
+                  "name": "thumb",
+                  "width": 180,
+                  "height": 180,
+                  "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+                },
+                {
+                  "name": "default",
+                  "width": 900,
+                  "quality": 90,
+                  "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+                }
+              ]
+            }
+          ],
+          "company_name": [
+            {
+              "id": 11713,
+              "user_id": 9608,
+              "meta_key": "company_name",
+              "value": "Tvrtka d.o.o.",
+              "created_at": "2018-05-23 11:02:17",
+              "updated_at": "2018-08-16 07:06:01"
+            }
+          ]
+        },
+        "medium": null,
+        "job_benefits": [
+          {
+            "id": 23342,
+            "job_id": 10920,
+            "benefit_id": 7,
+            "created_at": "2020-06-03 10:15:09",
+            "updated_at": "2020-06-03 10:15:09",
+            "benefit": {
+              "id": 7,
+              "name": "Edukacija",
+              "created_at": null,
+              "updated_at": null,
+              "slug": "edukacija"
+            }
+          }
+        ],
+        "job_certificates": [
+          {
+            "id": 886,
+            "job_id": 10920,
+            "certificate_id": 4,
+            "created_at": "2020-07-02 09:17:41",
+            "updated_at": "2020-07-02 09:17:41",
+            "certificate": {
+              "id": 4,
+              "name": "Umirovljenička knjižica",
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 887,
+            "job_id": 10920,
+            "certificate_id": 3,
+            "created_at": "2020-07-02 09:17:41",
+            "updated_at": "2020-07-02 09:17:41",
+            "certificate": {
+              "id": 3,
+              "name": "Diploma ili certifikat",
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 888,
+            "job_id": 10920,
+            "certificate_id": 1,
+            "created_at": "2020-07-02 09:17:45",
+            "updated_at": "2020-07-02 09:17:45",
+            "certificate": {
+              "id": 1,
+              "name": "Sanitarna knjižica",
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_languages": [
+          {
+            "id": 711,
+            "job_id": 10920,
+            "language_id": 519,
+            "understanding": null,
+            "speaking": null,
+            "writing": null,
+            "created_at": "2020-07-02 09:17:50",
+            "updated_at": "2020-07-02 09:17:51",
+            "score": "a2",
+            "language": {
+              "id": 519,
+              "name": "španjolski",
+              "code": "es"
+            }
+          }
+        ],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 1740,
+            "job_id": 10920,
+            "skill_id": 241,
+            "created_at": "2020-05-08 09:33:06",
+            "updated_at": "2020-05-08 09:33:06",
+            "skill": {
+              "id": 241,
+              "name": "Posluživanje hrane - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1741,
+            "job_id": 10920,
+            "skill_id": 240,
+            "created_at": "2020-05-08 09:33:07",
+            "updated_at": "2020-05-08 09:33:07",
+            "skill": {
+              "id": 240,
+              "name": "Posluživanje pića - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1750,
+            "job_id": 10920,
+            "skill_id": 299,
+            "created_at": "2020-07-02 09:17:30",
+            "updated_at": "2020-07-02 09:17:30",
+            "skill": {
+              "id": 299,
+              "name": "Unos podataka",
+              "parent": 259,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1751,
+            "job_id": 10920,
+            "skill_id": 283,
+            "created_at": "2020-07-02 09:17:32",
+            "updated_at": "2020-07-02 09:17:32",
+            "skill": {
+              "id": 283,
+              "name": "Poduka glasovira",
+              "parent": 259,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1752,
+            "job_id": 10920,
+            "skill_id": 276,
+            "created_at": "2020-07-02 09:17:33",
+            "updated_at": "2020-07-02 09:17:33",
+            "skill": {
+              "id": 276,
+              "name": "Klavijaturist",
+              "parent": 259,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1753,
+            "job_id": 10920,
+            "skill_id": 270,
+            "created_at": "2020-07-02 09:17:35",
+            "updated_at": "2020-07-02 09:17:35",
+            "skill": {
+              "id": 270,
+              "name": "Instrukcije iz matematike za SŠ",
+              "parent": 259,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 1725,
+            "job_offer_id": 10920,
+            "finances_type": 2,
+            "amount": 80,
+            "created_at": "2020-06-03 09:53:17",
+            "updated_at": "2020-06-03 09:53:17",
+            "amount_formatted": "80,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [
+          {
+            "id": 29622,
+            "job_id": 10920,
+            "employee_category_id": 1,
+            "created_at": "2020-06-03 10:15:09",
+            "updated_at": "2020-06-03 10:15:09",
+            "employee_category": {
+              "id": 1,
+              "employee_type": "all",
+              "order": 10,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Svi"
+            }
+          },
+          {
+            "id": 29623,
+            "job_id": 10920,
+            "employee_category_id": 2,
+            "created_at": "2020-06-03 10:15:09",
+            "updated_at": "2020-06-03 10:15:09",
+            "employee_category": {
+              "id": 2,
+              "employee_type": "pupil",
+              "order": 20,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Učenik"
+            }
+          },
+          {
+            "id": 29624,
+            "job_id": 10920,
+            "employee_category_id": 3,
+            "created_at": "2020-06-03 10:15:09",
+            "updated_at": "2020-06-03 10:15:09",
+            "employee_category": {
+              "id": 3,
+              "employee_type": "student",
+              "order": 30,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Student"
+            }
+          },
+          {
+            "id": 29625,
+            "job_id": 10920,
+            "employee_category_id": 4,
+            "created_at": "2020-06-03 10:15:09",
+            "updated_at": "2020-06-03 10:15:09",
+            "employee_category": {
+              "id": 4,
+              "employee_type": "retired",
+              "order": 40,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Umirovljenik"
+            }
+          },
+          {
+            "id": 29626,
+            "job_id": 10920,
+            "employee_category_id": 5,
+            "created_at": "2020-06-03 10:15:09",
+            "updated_at": "2020-06-03 10:15:09",
+            "employee_category": {
+              "id": 5,
+              "employee_type": "other",
+              "order": 50,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+            }
+          },
+          {
+            "id": 29627,
+            "job_id": 10920,
+            "employee_category_id": 6,
+            "created_at": "2020-06-03 10:15:09",
+            "updated_at": "2020-06-03 10:15:09",
+            "employee_category": {
+              "id": 6,
+              "employee_type": "adult_pupil",
+              "order": 60,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Punoljetni učenik"
+            }
+          }
+        ],
+        "job_offer_categories": [
+          {
+            "id": 514,
+            "job_id": 10920,
+            "category_id": 8,
+            "created_at": "2020-06-03 10:15:09",
+            "updated_at": "2020-06-03 10:15:09",
+            "user_id": 9608,
+            "job_category": {
+              "id": 8,
+              "name": "Sezonski posao 2020.",
+              "slug": "sezonski-posao-2020",
+              "created_at": "2020-02-04 00:00:00",
+              "updated_at": "2020-02-04 00:00:00"
+            }
+          },
+          {
+            "id": 515,
+            "job_id": 10920,
+            "category_id": 7,
+            "created_at": "2020-06-03 10:15:09",
+            "updated_at": "2020-06-03 10:15:09",
+            "user_id": 9608,
+            "job_category": {
+              "id": 7,
+              "name": "Honorarni posao",
+              "slug": "honorarni-posao",
+              "created_at": "2020-02-04 00:00:00",
+              "updated_at": "2020-02-04 00:00:00"
+            }
+          }
+        ],
+        "job_offer_impression_counter": {
+          "id": 3,
+          "created_at": "2020-07-14 13:36:58",
+          "updated_at": "2020-07-29 14:48:26",
+          "job_id": 10920,
+          "counter": 263
+        },
+        "job_offer_applications_counter": {
+          "id": 31,
+          "created_at": "2020-07-22 13:46:31",
+          "updated_at": "2020-07-22 13:46:31",
+          "job_id": 10920,
+          "counter": 4
+        }
+      },
+      {
+        "id": 10921,
+        "user_id": 9608,
+        "title": "Novi test posao<sup>(m/ž)</sup>",
+        "subtitle": null,
+        "description": "",
+        "workers_needed": "2",
+        "number_of_hours": null,
+        "job_image": null,
+        "ad_duration": "2020-09-12 00:00:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2020-05-08 10:51:44",
+        "updated_at": "2020-06-02 08:46:02",
+        "employer_location": 1511,
+        "slug": "novi-test-posao",
+        "notified_rejections": null,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": 1,
+        "job_link": "https://dev.danasradim.hr/posao/novi-test-posao",
+        "user_location": {
+          "id": 1511,
+          "user_id": 9608,
+          "geo_location_id": 515,
+          "contact_person": 489,
+          "location_type": "headquarters",
+          "address": "Školska 3",
+          "zip_code": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2019-03-26 13:52:24",
+          "lat": 42.9255224,
+          "lng": 17.4290074,
+          "custom_name": null,
+          "geo_location": {
+            "id": 515,
+            "title": "Janjina",
+            "place_id": "ChIJjZnC_DSuSxMRtX_OMrH-vIc",
+            "gogole_id": null,
+            "lat": 42.9255224,
+            "lng": 17.4290074,
+            "county_id": 19,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "20246",
+            "county": {
+              "id": 19,
+              "name": "Dubrovačko-neretvanska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": {
+          "id": 9608,
+          "first_name": "Poslodava",
+          "last_name": "Poslodavac",
+          "email": "poslodavac1234@harakirimail.com",
+          "last_login": null,
+          "user_type": 2,
+          "confirmed": "confirmed",
+          "creation_token": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2020-04-22 08:49:06",
+          "student_center": null,
+          "dob": null,
+          "pupil_center": null,
+          "status": "activated",
+          "slug": "tvrtka-d-o-o",
+          "logo": [
+            {
+              "id": 8292,
+              "user_id": 9608,
+              "meta_key": "logo_image",
+              "value": "8292",
+              "created_at": "2020-03-27 13:32:40",
+              "updated_at": "2020-03-27 13:32:40",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "width": 250,
+              "height": 216,
+              "file_type": "png",
+              "storage_type": "s3",
+              "file_size": 24046,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea",
+              "sizes": [
+                {
+                  "name": "thumb",
+                  "width": 180,
+                  "height": 180,
+                  "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+                },
+                {
+                  "name": "default",
+                  "width": 900,
+                  "quality": 90,
+                  "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+                }
+              ]
+            }
+          ],
+          "company_name": [
+            {
+              "id": 11713,
+              "user_id": 9608,
+              "meta_key": "company_name",
+              "value": "Tvrtka d.o.o.",
+              "created_at": "2018-05-23 11:02:17",
+              "updated_at": "2018-08-16 07:06:01"
+            }
+          ]
+        },
+        "medium": null,
+        "job_benefits": [],
+        "job_certificates": [],
+        "job_languages": [],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 1742,
+            "job_id": 10921,
+            "skill_id": 241,
+            "created_at": "2020-05-08 10:51:54",
+            "updated_at": "2020-05-08 10:51:54",
+            "skill": {
+              "id": 241,
+              "name": "Posluživanje hrane - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1743,
+            "job_id": 10921,
+            "skill_id": 240,
+            "created_at": "2020-05-08 10:51:56",
+            "updated_at": "2020-05-08 10:51:56",
+            "skill": {
+              "id": 240,
+              "name": "Posluživanje pića - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 1717,
+            "job_offer_id": 10921,
+            "finances_type": 2,
+            "amount": 20,
+            "created_at": "2020-05-08 10:51:49",
+            "updated_at": "2020-05-08 10:51:49",
+            "amount_formatted": "20,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [
+          {
+            "id": 29484,
+            "job_id": 10921,
+            "employee_category_id": 1,
+            "created_at": "2020-06-02 08:46:02",
+            "updated_at": "2020-06-02 08:46:02",
+            "employee_category": {
+              "id": 1,
+              "employee_type": "all",
+              "order": 10,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Svi"
+            }
+          },
+          {
+            "id": 29485,
+            "job_id": 10921,
+            "employee_category_id": 2,
+            "created_at": "2020-06-02 08:46:02",
+            "updated_at": "2020-06-02 08:46:02",
+            "employee_category": {
+              "id": 2,
+              "employee_type": "pupil",
+              "order": 20,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Učenik"
+            }
+          },
+          {
+            "id": 29486,
+            "job_id": 10921,
+            "employee_category_id": 3,
+            "created_at": "2020-06-02 08:46:02",
+            "updated_at": "2020-06-02 08:46:02",
+            "employee_category": {
+              "id": 3,
+              "employee_type": "student",
+              "order": 30,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Student"
+            }
+          },
+          {
+            "id": 29487,
+            "job_id": 10921,
+            "employee_category_id": 4,
+            "created_at": "2020-06-02 08:46:02",
+            "updated_at": "2020-06-02 08:46:02",
+            "employee_category": {
+              "id": 4,
+              "employee_type": "retired",
+              "order": 40,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Umirovljenik"
+            }
+          },
+          {
+            "id": 29488,
+            "job_id": 10921,
+            "employee_category_id": 5,
+            "created_at": "2020-06-02 08:46:02",
+            "updated_at": "2020-06-02 08:46:02",
+            "employee_category": {
+              "id": 5,
+              "employee_type": "other",
+              "order": 50,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+            }
+          },
+          {
+            "id": 29489,
+            "job_id": 10921,
+            "employee_category_id": 6,
+            "created_at": "2020-06-02 08:46:02",
+            "updated_at": "2020-06-02 08:46:02",
+            "employee_category": {
+              "id": 6,
+              "employee_type": "adult_pupil",
+              "order": 60,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Punoljetni učenik"
+            }
+          }
+        ],
+        "job_offer_categories": [],
+        "job_offer_impression_counter": {
+          "id": 1,
+          "created_at": "2020-07-14 11:18:29",
+          "updated_at": "2020-07-29 12:20:30",
+          "job_id": 10921,
+          "counter": 186
+        },
+        "job_offer_applications_counter": {
+          "id": 13,
+          "created_at": "2020-07-15 10:37:49",
+          "updated_at": "2020-07-15 10:37:49",
+          "job_id": 10921,
+          "counter": 5
+        }
+      },
+      {
+        "id": 10919,
+        "user_id": 9608,
+        "title": "Berač kruški<sup>(m/ž)</sup>",
+        "subtitle": null,
+        "description": "",
+        "workers_needed": "2",
+        "number_of_hours": null,
+        "job_image": null,
+        "ad_duration": "2020-09-20 23:59:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2020-05-06 15:41:50",
+        "updated_at": "2020-05-06 15:42:05",
+        "employer_location": 1511,
+        "slug": "berac-kruski",
+        "notified_rejections": null,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": null,
+        "job_link": "https://dev.danasradim.hr/posao/berac-kruski",
+        "user_location": {
+          "id": 1511,
+          "user_id": 9608,
+          "geo_location_id": 515,
+          "contact_person": 489,
+          "location_type": "headquarters",
+          "address": "Školska 3",
+          "zip_code": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2019-03-26 13:52:24",
+          "lat": 42.9255224,
+          "lng": 17.4290074,
+          "custom_name": null,
+          "geo_location": {
+            "id": 515,
+            "title": "Janjina",
+            "place_id": "ChIJjZnC_DSuSxMRtX_OMrH-vIc",
+            "gogole_id": null,
+            "lat": 42.9255224,
+            "lng": 17.4290074,
+            "county_id": 19,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "20246",
+            "county": {
+              "id": 19,
+              "name": "Dubrovačko-neretvanska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": {
+          "id": 9608,
+          "first_name": "Poslodava",
+          "last_name": "Poslodavac",
+          "email": "poslodavac1234@harakirimail.com",
+          "last_login": null,
+          "user_type": 2,
+          "confirmed": "confirmed",
+          "creation_token": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2020-04-22 08:49:06",
+          "student_center": null,
+          "dob": null,
+          "pupil_center": null,
+          "status": "activated",
+          "slug": "tvrtka-d-o-o",
+          "logo": [
+            {
+              "id": 8292,
+              "user_id": 9608,
+              "meta_key": "logo_image",
+              "value": "8292",
+              "created_at": "2020-03-27 13:32:40",
+              "updated_at": "2020-03-27 13:32:40",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "width": 250,
+              "height": 216,
+              "file_type": "png",
+              "storage_type": "s3",
+              "file_size": 24046,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea",
+              "sizes": [
+                {
+                  "name": "thumb",
+                  "width": 180,
+                  "height": 180,
+                  "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+                },
+                {
+                  "name": "default",
+                  "width": 900,
+                  "quality": 90,
+                  "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+                }
+              ]
+            }
+          ],
+          "company_name": [
+            {
+              "id": 11713,
+              "user_id": 9608,
+              "meta_key": "company_name",
+              "value": "Tvrtka d.o.o.",
+              "created_at": "2018-05-23 11:02:17",
+              "updated_at": "2018-08-16 07:06:01"
+            }
+          ]
+        },
+        "medium": null,
+        "job_benefits": [],
+        "job_certificates": [],
+        "job_languages": [],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 1738,
+            "job_id": 10919,
+            "skill_id": 241,
+            "created_at": "2020-05-06 15:41:59",
+            "updated_at": "2020-05-06 15:41:59",
+            "skill": {
+              "id": 241,
+              "name": "Posluživanje hrane - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1739,
+            "job_id": 10919,
+            "skill_id": 240,
+            "created_at": "2020-05-06 15:42:00",
+            "updated_at": "2020-05-06 15:42:00",
+            "skill": {
+              "id": 240,
+              "name": "Posluživanje pića - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 1715,
+            "job_offer_id": 10919,
+            "finances_type": 2,
+            "amount": 20,
+            "created_at": "2020-05-06 15:41:53",
+            "updated_at": "2020-05-06 15:41:53",
+            "amount_formatted": "20,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [
+          {
+            "id": 29370,
+            "job_id": 10919,
+            "employee_category_id": 1,
+            "created_at": "2020-05-06 15:41:50",
+            "updated_at": "2020-05-06 15:41:50",
+            "employee_category": {
+              "id": 1,
+              "employee_type": "all",
+              "order": 10,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Svi"
+            }
+          },
+          {
+            "id": 29371,
+            "job_id": 10919,
+            "employee_category_id": 2,
+            "created_at": "2020-05-06 15:41:50",
+            "updated_at": "2020-05-06 15:41:50",
+            "employee_category": {
+              "id": 2,
+              "employee_type": "pupil",
+              "order": 20,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Učenik"
+            }
+          },
+          {
+            "id": 29372,
+            "job_id": 10919,
+            "employee_category_id": 3,
+            "created_at": "2020-05-06 15:41:50",
+            "updated_at": "2020-05-06 15:41:50",
+            "employee_category": {
+              "id": 3,
+              "employee_type": "student",
+              "order": 30,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Student"
+            }
+          },
+          {
+            "id": 29373,
+            "job_id": 10919,
+            "employee_category_id": 4,
+            "created_at": "2020-05-06 15:41:50",
+            "updated_at": "2020-05-06 15:41:50",
+            "employee_category": {
+              "id": 4,
+              "employee_type": "retired",
+              "order": 40,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Umirovljenik"
+            }
+          },
+          {
+            "id": 29374,
+            "job_id": 10919,
+            "employee_category_id": 5,
+            "created_at": "2020-05-06 15:41:50",
+            "updated_at": "2020-05-06 15:41:50",
+            "employee_category": {
+              "id": 5,
+              "employee_type": "other",
+              "order": 50,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+            }
+          },
+          {
+            "id": 29375,
+            "job_id": 10919,
+            "employee_category_id": 6,
+            "created_at": "2020-05-06 15:41:50",
+            "updated_at": "2020-05-06 15:41:50",
+            "employee_category": {
+              "id": 6,
+              "employee_type": "adult_pupil",
+              "order": 60,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Punoljetni učenik"
+            }
+          }
+        ],
+        "job_offer_categories": [],
+        "job_offer_impression_counter": {
+          "id": 24,
+          "created_at": "2020-07-15 08:20:59",
+          "updated_at": "2020-07-29 13:02:47",
+          "job_id": 10919,
+          "counter": 66
+        },
+        "job_offer_applications_counter": {
+          "id": 7,
+          "created_at": "2020-07-15 09:40:02",
+          "updated_at": "2020-07-16 11:57:43",
+          "job_id": 10919,
+          "counter": 4
+        }
+      },
+      {
+        "id": 10918,
+        "user_id": 9608,
+        "title": "Novi posao<sup>(m/ž)</sup>",
+        "subtitle": null,
+        "description": "",
+        "workers_needed": "2",
+        "number_of_hours": null,
+        "job_image": null,
+        "ad_duration": "2020-09-16 23:59:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2020-05-06 15:33:46",
+        "updated_at": "2020-05-06 15:34:01",
+        "employer_location": 1511,
+        "slug": "novi-posao-5",
+        "notified_rejections": null,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": null,
+        "job_link": "https://dev.danasradim.hr/posao/novi-posao-5",
+        "user_location": {
+          "id": 1511,
+          "user_id": 9608,
+          "geo_location_id": 515,
+          "contact_person": 489,
+          "location_type": "headquarters",
+          "address": "Školska 3",
+          "zip_code": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2019-03-26 13:52:24",
+          "lat": 42.9255224,
+          "lng": 17.4290074,
+          "custom_name": null,
+          "geo_location": {
+            "id": 515,
+            "title": "Janjina",
+            "place_id": "ChIJjZnC_DSuSxMRtX_OMrH-vIc",
+            "gogole_id": null,
+            "lat": 42.9255224,
+            "lng": 17.4290074,
+            "county_id": 19,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "20246",
+            "county": {
+              "id": 19,
+              "name": "Dubrovačko-neretvanska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": {
+          "id": 9608,
+          "first_name": "Poslodava",
+          "last_name": "Poslodavac",
+          "email": "poslodavac1234@harakirimail.com",
+          "last_login": null,
+          "user_type": 2,
+          "confirmed": "confirmed",
+          "creation_token": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2020-04-22 08:49:06",
+          "student_center": null,
+          "dob": null,
+          "pupil_center": null,
+          "status": "activated",
+          "slug": "tvrtka-d-o-o",
+          "logo": [
+            {
+              "id": 8292,
+              "user_id": 9608,
+              "meta_key": "logo_image",
+              "value": "8292",
+              "created_at": "2020-03-27 13:32:40",
+              "updated_at": "2020-03-27 13:32:40",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "width": 250,
+              "height": 216,
+              "file_type": "png",
+              "storage_type": "s3",
+              "file_size": 24046,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea",
+              "sizes": [
+                {
+                  "name": "thumb",
+                  "width": 180,
+                  "height": 180,
+                  "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+                },
+                {
+                  "name": "default",
+                  "width": 900,
+                  "quality": 90,
+                  "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+                }
+              ]
+            }
+          ],
+          "company_name": [
+            {
+              "id": 11713,
+              "user_id": 9608,
+              "meta_key": "company_name",
+              "value": "Tvrtka d.o.o.",
+              "created_at": "2018-05-23 11:02:17",
+              "updated_at": "2018-08-16 07:06:01"
+            }
+          ]
+        },
+        "medium": null,
+        "job_benefits": [],
+        "job_certificates": [],
+        "job_languages": [],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 1736,
+            "job_id": 10918,
+            "skill_id": 241,
+            "created_at": "2020-05-06 15:33:55",
+            "updated_at": "2020-05-06 15:33:55",
+            "skill": {
+              "id": 241,
+              "name": "Posluživanje hrane - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1737,
+            "job_id": 10918,
+            "skill_id": 240,
+            "created_at": "2020-05-06 15:33:57",
+            "updated_at": "2020-05-06 15:33:57",
+            "skill": {
+              "id": 240,
+              "name": "Posluživanje pića - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 1714,
+            "job_offer_id": 10918,
+            "finances_type": 2,
+            "amount": 20,
+            "created_at": "2020-05-06 15:33:50",
+            "updated_at": "2020-05-06 15:33:50",
+            "amount_formatted": "20,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [
+          {
+            "id": 29364,
+            "job_id": 10918,
+            "employee_category_id": 1,
+            "created_at": "2020-05-06 15:33:46",
+            "updated_at": "2020-05-06 15:33:46",
+            "employee_category": {
+              "id": 1,
+              "employee_type": "all",
+              "order": 10,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Svi"
+            }
+          },
+          {
+            "id": 29365,
+            "job_id": 10918,
+            "employee_category_id": 2,
+            "created_at": "2020-05-06 15:33:46",
+            "updated_at": "2020-05-06 15:33:46",
+            "employee_category": {
+              "id": 2,
+              "employee_type": "pupil",
+              "order": 20,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Učenik"
+            }
+          },
+          {
+            "id": 29366,
+            "job_id": 10918,
+            "employee_category_id": 3,
+            "created_at": "2020-05-06 15:33:46",
+            "updated_at": "2020-05-06 15:33:46",
+            "employee_category": {
+              "id": 3,
+              "employee_type": "student",
+              "order": 30,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Student"
+            }
+          },
+          {
+            "id": 29367,
+            "job_id": 10918,
+            "employee_category_id": 4,
+            "created_at": "2020-05-06 15:33:46",
+            "updated_at": "2020-05-06 15:33:46",
+            "employee_category": {
+              "id": 4,
+              "employee_type": "retired",
+              "order": 40,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Umirovljenik"
+            }
+          },
+          {
+            "id": 29368,
+            "job_id": 10918,
+            "employee_category_id": 5,
+            "created_at": "2020-05-06 15:33:46",
+            "updated_at": "2020-05-06 15:33:46",
+            "employee_category": {
+              "id": 5,
+              "employee_type": "other",
+              "order": 50,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+            }
+          },
+          {
+            "id": 29369,
+            "job_id": 10918,
+            "employee_category_id": 6,
+            "created_at": "2020-05-06 15:33:46",
+            "updated_at": "2020-05-06 15:33:46",
+            "employee_category": {
+              "id": 6,
+              "employee_type": "adult_pupil",
+              "order": 60,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Punoljetni učenik"
+            }
+          }
+        ],
+        "job_offer_categories": [],
+        "job_offer_impression_counter": {
+          "id": 2,
+          "created_at": "2020-07-14 11:51:32",
+          "updated_at": "2020-07-29 13:05:10",
+          "job_id": 10918,
+          "counter": 143
+        },
+        "job_offer_applications_counter": {
+          "id": 5,
+          "created_at": "2020-07-15 09:09:45",
+          "updated_at": "2020-07-20 10:55:31",
+          "job_id": 10918,
+          "counter": 2
+        }
+      },
+      {
+        "id": 10915,
+        "user_id": 9608,
+        "title": "Posao odbijanje poziva na posao<sup>(m/ž)</sup>",
+        "subtitle": null,
+        "description": "",
+        "workers_needed": "3",
+        "number_of_hours": null,
+        "job_image": null,
+        "ad_duration": "2020-09-18 23:59:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2020-05-06 15:21:39",
+        "updated_at": "2020-05-06 15:22:02",
+        "employer_location": 1511,
+        "slug": "posao-odbijanje-poziva-na-posao",
+        "notified_rejections": null,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": null,
+        "job_link": "https://dev.danasradim.hr/posao/posao-odbijanje-poziva-na-posao",
+        "user_location": {
+          "id": 1511,
+          "user_id": 9608,
+          "geo_location_id": 515,
+          "contact_person": 489,
+          "location_type": "headquarters",
+          "address": "Školska 3",
+          "zip_code": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2019-03-26 13:52:24",
+          "lat": 42.9255224,
+          "lng": 17.4290074,
+          "custom_name": null,
+          "geo_location": {
+            "id": 515,
+            "title": "Janjina",
+            "place_id": "ChIJjZnC_DSuSxMRtX_OMrH-vIc",
+            "gogole_id": null,
+            "lat": 42.9255224,
+            "lng": 17.4290074,
+            "county_id": 19,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "20246",
+            "county": {
+              "id": 19,
+              "name": "Dubrovačko-neretvanska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": {
+          "id": 9608,
+          "first_name": "Poslodava",
+          "last_name": "Poslodavac",
+          "email": "poslodavac1234@harakirimail.com",
+          "last_login": null,
+          "user_type": 2,
+          "confirmed": "confirmed",
+          "creation_token": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2020-04-22 08:49:06",
+          "student_center": null,
+          "dob": null,
+          "pupil_center": null,
+          "status": "activated",
+          "slug": "tvrtka-d-o-o",
+          "logo": [
+            {
+              "id": 8292,
+              "user_id": 9608,
+              "meta_key": "logo_image",
+              "value": "8292",
+              "created_at": "2020-03-27 13:32:40",
+              "updated_at": "2020-03-27 13:32:40",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "width": 250,
+              "height": 216,
+              "file_type": "png",
+              "storage_type": "s3",
+              "file_size": 24046,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea",
+              "sizes": [
+                {
+                  "name": "thumb",
+                  "width": 180,
+                  "height": 180,
+                  "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+                },
+                {
+                  "name": "default",
+                  "width": 900,
+                  "quality": 90,
+                  "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+                }
+              ]
+            }
+          ],
+          "company_name": [
+            {
+              "id": 11713,
+              "user_id": 9608,
+              "meta_key": "company_name",
+              "value": "Tvrtka d.o.o.",
+              "created_at": "2018-05-23 11:02:17",
+              "updated_at": "2018-08-16 07:06:01"
+            }
+          ]
+        },
+        "medium": null,
+        "job_benefits": [],
+        "job_certificates": [],
+        "job_languages": [],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 1732,
+            "job_id": 10915,
+            "skill_id": 240,
+            "created_at": "2020-05-06 15:21:48",
+            "updated_at": "2020-05-06 15:21:48",
+            "skill": {
+              "id": 240,
+              "name": "Posluživanje pića - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1733,
+            "job_id": 10915,
+            "skill_id": 241,
+            "created_at": "2020-05-06 15:21:50",
+            "updated_at": "2020-05-06 15:21:50",
+            "skill": {
+              "id": 241,
+              "name": "Posluživanje hrane - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 1711,
+            "job_offer_id": 10915,
+            "finances_type": 2,
+            "amount": 20,
+            "created_at": "2020-05-06 15:21:42",
+            "updated_at": "2020-05-06 15:21:42",
+            "amount_formatted": "20,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [
+          {
+            "id": 29346,
+            "job_id": 10915,
+            "employee_category_id": 1,
+            "created_at": "2020-05-06 15:21:39",
+            "updated_at": "2020-05-06 15:21:39",
+            "employee_category": {
+              "id": 1,
+              "employee_type": "all",
+              "order": 10,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Svi"
+            }
+          },
+          {
+            "id": 29347,
+            "job_id": 10915,
+            "employee_category_id": 2,
+            "created_at": "2020-05-06 15:21:39",
+            "updated_at": "2020-05-06 15:21:39",
+            "employee_category": {
+              "id": 2,
+              "employee_type": "pupil",
+              "order": 20,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Učenik"
+            }
+          },
+          {
+            "id": 29348,
+            "job_id": 10915,
+            "employee_category_id": 3,
+            "created_at": "2020-05-06 15:21:39",
+            "updated_at": "2020-05-06 15:21:39",
+            "employee_category": {
+              "id": 3,
+              "employee_type": "student",
+              "order": 30,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Student"
+            }
+          },
+          {
+            "id": 29349,
+            "job_id": 10915,
+            "employee_category_id": 4,
+            "created_at": "2020-05-06 15:21:39",
+            "updated_at": "2020-05-06 15:21:39",
+            "employee_category": {
+              "id": 4,
+              "employee_type": "retired",
+              "order": 40,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Umirovljenik"
+            }
+          },
+          {
+            "id": 29350,
+            "job_id": 10915,
+            "employee_category_id": 5,
+            "created_at": "2020-05-06 15:21:39",
+            "updated_at": "2020-05-06 15:21:39",
+            "employee_category": {
+              "id": 5,
+              "employee_type": "other",
+              "order": 50,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+            }
+          },
+          {
+            "id": 29351,
+            "job_id": 10915,
+            "employee_category_id": 6,
+            "created_at": "2020-05-06 15:21:39",
+            "updated_at": "2020-05-06 15:21:39",
+            "employee_category": {
+              "id": 6,
+              "employee_type": "adult_pupil",
+              "order": 60,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Punoljetni učenik"
+            }
+          }
+        ],
+        "job_offer_categories": [],
+        "job_offer_impression_counter": {
+          "id": 30,
+          "created_at": "2020-07-15 09:32:28",
+          "updated_at": "2020-07-28 15:53:45",
+          "job_id": 10915,
+          "counter": 21
+        },
+        "job_offer_applications_counter": {
+          "id": 28,
+          "created_at": "2020-07-17 08:02:55",
+          "updated_at": "2020-07-17 08:02:55",
+          "job_id": 10915,
+          "counter": 1
+        }
+      },
+      {
+        "id": 10914,
+        "user_id": 9608,
+        "title": "Posao priprema za live<sup>(m/ž)</sup>",
+        "subtitle": null,
+        "description": "",
+        "workers_needed": "3",
+        "number_of_hours": null,
+        "job_image": null,
+        "ad_duration": "2020-09-10 23:59:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2020-05-06 15:13:23",
+        "updated_at": "2020-05-06 15:13:39",
+        "employer_location": 1511,
+        "slug": "posao-priprema-za-live-2",
+        "notified_rejections": null,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": null,
+        "job_link": "https://dev.danasradim.hr/posao/posao-priprema-za-live-2",
+        "user_location": {
+          "id": 1511,
+          "user_id": 9608,
+          "geo_location_id": 515,
+          "contact_person": 489,
+          "location_type": "headquarters",
+          "address": "Školska 3",
+          "zip_code": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2019-03-26 13:52:24",
+          "lat": 42.9255224,
+          "lng": 17.4290074,
+          "custom_name": null,
+          "geo_location": {
+            "id": 515,
+            "title": "Janjina",
+            "place_id": "ChIJjZnC_DSuSxMRtX_OMrH-vIc",
+            "gogole_id": null,
+            "lat": 42.9255224,
+            "lng": 17.4290074,
+            "county_id": 19,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "20246",
+            "county": {
+              "id": 19,
+              "name": "Dubrovačko-neretvanska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": {
+          "id": 9608,
+          "first_name": "Poslodava",
+          "last_name": "Poslodavac",
+          "email": "poslodavac1234@harakirimail.com",
+          "last_login": null,
+          "user_type": 2,
+          "confirmed": "confirmed",
+          "creation_token": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2020-04-22 08:49:06",
+          "student_center": null,
+          "dob": null,
+          "pupil_center": null,
+          "status": "activated",
+          "slug": "tvrtka-d-o-o",
+          "logo": [
+            {
+              "id": 8292,
+              "user_id": 9608,
+              "meta_key": "logo_image",
+              "value": "8292",
+              "created_at": "2020-03-27 13:32:40",
+              "updated_at": "2020-03-27 13:32:40",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "width": 250,
+              "height": 216,
+              "file_type": "png",
+              "storage_type": "s3",
+              "file_size": 24046,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea",
+              "sizes": [
+                {
+                  "name": "thumb",
+                  "width": 180,
+                  "height": 180,
+                  "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+                },
+                {
+                  "name": "default",
+                  "width": 900,
+                  "quality": 90,
+                  "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+                }
+              ]
+            }
+          ],
+          "company_name": [
+            {
+              "id": 11713,
+              "user_id": 9608,
+              "meta_key": "company_name",
+              "value": "Tvrtka d.o.o.",
+              "created_at": "2018-05-23 11:02:17",
+              "updated_at": "2018-08-16 07:06:01"
+            }
+          ]
+        },
+        "medium": null,
+        "job_benefits": [],
+        "job_certificates": [],
+        "job_languages": [],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 1730,
+            "job_id": 10914,
+            "skill_id": 241,
+            "created_at": "2020-05-06 15:13:33",
+            "updated_at": "2020-05-06 15:13:33",
+            "skill": {
+              "id": 241,
+              "name": "Posluživanje hrane - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1731,
+            "job_id": 10914,
+            "skill_id": 240,
+            "created_at": "2020-05-06 15:13:34",
+            "updated_at": "2020-05-06 15:13:34",
+            "skill": {
+              "id": 240,
+              "name": "Posluživanje pića - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 1710,
+            "job_offer_id": 10914,
+            "finances_type": 2,
+            "amount": 20,
+            "created_at": "2020-05-06 15:13:26",
+            "updated_at": "2020-05-06 15:13:26",
+            "amount_formatted": "20,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [
+          {
+            "id": 29340,
+            "job_id": 10914,
+            "employee_category_id": 1,
+            "created_at": "2020-05-06 15:13:23",
+            "updated_at": "2020-05-06 15:13:23",
+            "employee_category": {
+              "id": 1,
+              "employee_type": "all",
+              "order": 10,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Svi"
+            }
+          },
+          {
+            "id": 29341,
+            "job_id": 10914,
+            "employee_category_id": 2,
+            "created_at": "2020-05-06 15:13:23",
+            "updated_at": "2020-05-06 15:13:23",
+            "employee_category": {
+              "id": 2,
+              "employee_type": "pupil",
+              "order": 20,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Učenik"
+            }
+          },
+          {
+            "id": 29342,
+            "job_id": 10914,
+            "employee_category_id": 3,
+            "created_at": "2020-05-06 15:13:23",
+            "updated_at": "2020-05-06 15:13:23",
+            "employee_category": {
+              "id": 3,
+              "employee_type": "student",
+              "order": 30,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Student"
+            }
+          },
+          {
+            "id": 29343,
+            "job_id": 10914,
+            "employee_category_id": 4,
+            "created_at": "2020-05-06 15:13:23",
+            "updated_at": "2020-05-06 15:13:23",
+            "employee_category": {
+              "id": 4,
+              "employee_type": "retired",
+              "order": 40,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Umirovljenik"
+            }
+          },
+          {
+            "id": 29344,
+            "job_id": 10914,
+            "employee_category_id": 5,
+            "created_at": "2020-05-06 15:13:23",
+            "updated_at": "2020-05-06 15:13:23",
+            "employee_category": {
+              "id": 5,
+              "employee_type": "other",
+              "order": 50,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+            }
+          },
+          {
+            "id": 29345,
+            "job_id": 10914,
+            "employee_category_id": 6,
+            "created_at": "2020-05-06 15:13:23",
+            "updated_at": "2020-05-06 15:13:23",
+            "employee_category": {
+              "id": 6,
+              "employee_type": "adult_pupil",
+              "order": 60,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Punoljetni učenik"
+            }
+          }
+        ],
+        "job_offer_categories": [],
+        "job_offer_impression_counter": {
+          "id": 29,
+          "created_at": "2020-07-15 09:28:43",
+          "updated_at": "2020-07-24 10:58:12",
+          "job_id": 10914,
+          "counter": 37
+        },
+        "job_offer_applications_counter": {
+          "id": 8,
+          "created_at": "2020-07-15 09:41:17",
+          "updated_at": "2020-07-17 12:49:37",
+          "job_id": 10914,
+          "counter": 3
+        }
+      },
+      {
+        "id": 10903,
+        "user_id": 9608,
+        "title": "Brijač<sup>(m/ž)</sup>",
+        "subtitle": null,
+        "description": "",
+        "workers_needed": "2",
+        "number_of_hours": null,
+        "job_image": null,
+        "ad_duration": "2020-11-18 23:59:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2020-05-06 10:04:37",
+        "updated_at": "2020-05-06 10:05:12",
+        "employer_location": 1511,
+        "slug": "brijac",
+        "notified_rejections": null,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": null,
+        "job_link": "https://dev.danasradim.hr/posao/brijac",
+        "user_location": {
+          "id": 1511,
+          "user_id": 9608,
+          "geo_location_id": 515,
+          "contact_person": 489,
+          "location_type": "headquarters",
+          "address": "Školska 3",
+          "zip_code": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2019-03-26 13:52:24",
+          "lat": 42.9255224,
+          "lng": 17.4290074,
+          "custom_name": null,
+          "geo_location": {
+            "id": 515,
+            "title": "Janjina",
+            "place_id": "ChIJjZnC_DSuSxMRtX_OMrH-vIc",
+            "gogole_id": null,
+            "lat": 42.9255224,
+            "lng": 17.4290074,
+            "county_id": 19,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "20246",
+            "county": {
+              "id": 19,
+              "name": "Dubrovačko-neretvanska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": {
+          "id": 9608,
+          "first_name": "Poslodava",
+          "last_name": "Poslodavac",
+          "email": "poslodavac1234@harakirimail.com",
+          "last_login": null,
+          "user_type": 2,
+          "confirmed": "confirmed",
+          "creation_token": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2020-04-22 08:49:06",
+          "student_center": null,
+          "dob": null,
+          "pupil_center": null,
+          "status": "activated",
+          "slug": "tvrtka-d-o-o",
+          "logo": [
+            {
+              "id": 8292,
+              "user_id": 9608,
+              "meta_key": "logo_image",
+              "value": "8292",
+              "created_at": "2020-03-27 13:32:40",
+              "updated_at": "2020-03-27 13:32:40",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "width": 250,
+              "height": 216,
+              "file_type": "png",
+              "storage_type": "s3",
+              "file_size": 24046,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea",
+              "sizes": [
+                {
+                  "name": "thumb",
+                  "width": 180,
+                  "height": 180,
+                  "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+                },
+                {
+                  "name": "default",
+                  "width": 900,
+                  "quality": 90,
+                  "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+                }
+              ]
+            }
+          ],
+          "company_name": [
+            {
+              "id": 11713,
+              "user_id": 9608,
+              "meta_key": "company_name",
+              "value": "Tvrtka d.o.o.",
+              "created_at": "2018-05-23 11:02:17",
+              "updated_at": "2018-08-16 07:06:01"
+            }
+          ]
+        },
+        "medium": null,
+        "job_benefits": [],
+        "job_certificates": [],
+        "job_languages": [],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 1714,
+            "job_id": 10903,
+            "skill_id": 149,
+            "created_at": "2020-05-06 10:05:02",
+            "updated_at": "2020-05-06 10:05:02",
+            "skill": {
+              "id": 149,
+              "name": "Hidroizolacije",
+              "parent": 133,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1715,
+            "job_id": 10903,
+            "skill_id": 148,
+            "created_at": "2020-05-06 10:05:05",
+            "updated_at": "2020-05-06 10:05:05",
+            "skill": {
+              "id": 148,
+              "name": "Građevina",
+              "parent": 133,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1716,
+            "job_id": 10903,
+            "skill_id": 150,
+            "created_at": "2020-05-06 10:05:06",
+            "updated_at": "2020-05-06 10:05:06",
+            "skill": {
+              "id": 150,
+              "name": "Keramičar",
+              "parent": 133,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 1699,
+            "job_offer_id": 10903,
+            "finances_type": 2,
+            "amount": 30,
+            "created_at": "2020-05-06 10:04:43",
+            "updated_at": "2020-05-06 10:04:43",
+            "amount_formatted": "30,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [
+          {
+            "id": 29275,
+            "job_id": 10903,
+            "employee_category_id": 1,
+            "created_at": "2020-05-06 10:04:37",
+            "updated_at": "2020-05-06 10:04:37",
+            "employee_category": {
+              "id": 1,
+              "employee_type": "all",
+              "order": 10,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Svi"
+            }
+          },
+          {
+            "id": 29276,
+            "job_id": 10903,
+            "employee_category_id": 2,
+            "created_at": "2020-05-06 10:04:37",
+            "updated_at": "2020-05-06 10:04:37",
+            "employee_category": {
+              "id": 2,
+              "employee_type": "pupil",
+              "order": 20,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Učenik"
+            }
+          },
+          {
+            "id": 29277,
+            "job_id": 10903,
+            "employee_category_id": 3,
+            "created_at": "2020-05-06 10:04:37",
+            "updated_at": "2020-05-06 10:04:37",
+            "employee_category": {
+              "id": 3,
+              "employee_type": "student",
+              "order": 30,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Student"
+            }
+          },
+          {
+            "id": 29278,
+            "job_id": 10903,
+            "employee_category_id": 4,
+            "created_at": "2020-05-06 10:04:37",
+            "updated_at": "2020-05-06 10:04:37",
+            "employee_category": {
+              "id": 4,
+              "employee_type": "retired",
+              "order": 40,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Umirovljenik"
+            }
+          },
+          {
+            "id": 29279,
+            "job_id": 10903,
+            "employee_category_id": 5,
+            "created_at": "2020-05-06 10:04:37",
+            "updated_at": "2020-05-06 10:04:37",
+            "employee_category": {
+              "id": 5,
+              "employee_type": "other",
+              "order": 50,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+            }
+          },
+          {
+            "id": 29280,
+            "job_id": 10903,
+            "employee_category_id": 6,
+            "created_at": "2020-05-06 10:04:37",
+            "updated_at": "2020-05-06 10:04:37",
+            "employee_category": {
+              "id": 6,
+              "employee_type": "adult_pupil",
+              "order": 60,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Punoljetni učenik"
+            }
+          }
+        ],
+        "job_offer_categories": [],
+        "job_offer_impression_counter": {
+          "id": 35,
+          "created_at": "2020-07-15 11:05:03",
+          "updated_at": "2020-07-22 16:39:36",
+          "job_id": 10903,
+          "counter": 30
+        },
+        "job_offer_applications_counter": null
+      },
+      {
+        "id": 10894,
+        "user_id": 9608,
+        "title": "Frizer<sup>(m/ž)</sup>",
+        "subtitle": null,
+        "description": "",
+        "workers_needed": "2",
+        "number_of_hours": null,
+        "job_image": null,
+        "ad_duration": "2020-10-17 23:59:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2020-05-05 09:50:33",
+        "updated_at": "2020-05-05 09:50:50",
+        "employer_location": 1511,
+        "slug": "frizer-1",
+        "notified_rejections": null,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": null,
+        "job_link": "https://dev.danasradim.hr/posao/frizer-1",
+        "user_location": {
+          "id": 1511,
+          "user_id": 9608,
+          "geo_location_id": 515,
+          "contact_person": 489,
+          "location_type": "headquarters",
+          "address": "Školska 3",
+          "zip_code": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2019-03-26 13:52:24",
+          "lat": 42.9255224,
+          "lng": 17.4290074,
+          "custom_name": null,
+          "geo_location": {
+            "id": 515,
+            "title": "Janjina",
+            "place_id": "ChIJjZnC_DSuSxMRtX_OMrH-vIc",
+            "gogole_id": null,
+            "lat": 42.9255224,
+            "lng": 17.4290074,
+            "county_id": 19,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "20246",
+            "county": {
+              "id": 19,
+              "name": "Dubrovačko-neretvanska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": {
+          "id": 9608,
+          "first_name": "Poslodava",
+          "last_name": "Poslodavac",
+          "email": "poslodavac1234@harakirimail.com",
+          "last_login": null,
+          "user_type": 2,
+          "confirmed": "confirmed",
+          "creation_token": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2020-04-22 08:49:06",
+          "student_center": null,
+          "dob": null,
+          "pupil_center": null,
+          "status": "activated",
+          "slug": "tvrtka-d-o-o",
+          "logo": [
+            {
+              "id": 8292,
+              "user_id": 9608,
+              "meta_key": "logo_image",
+              "value": "8292",
+              "created_at": "2020-03-27 13:32:40",
+              "updated_at": "2020-03-27 13:32:40",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "width": 250,
+              "height": 216,
+              "file_type": "png",
+              "storage_type": "s3",
+              "file_size": 24046,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea",
+              "sizes": [
+                {
+                  "name": "thumb",
+                  "width": 180,
+                  "height": 180,
+                  "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+                },
+                {
+                  "name": "default",
+                  "width": 900,
+                  "quality": 90,
+                  "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+                }
+              ]
+            }
+          ],
+          "company_name": [
+            {
+              "id": 11713,
+              "user_id": 9608,
+              "meta_key": "company_name",
+              "value": "Tvrtka d.o.o.",
+              "created_at": "2018-05-23 11:02:17",
+              "updated_at": "2018-08-16 07:06:01"
+            }
+          ]
+        },
+        "medium": null,
+        "job_benefits": [],
+        "job_certificates": [],
+        "job_languages": [],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 1688,
+            "job_id": 10894,
+            "skill_id": 241,
+            "created_at": "2020-05-05 09:50:44",
+            "updated_at": "2020-05-05 09:50:44",
+            "skill": {
+              "id": 241,
+              "name": "Posluživanje hrane - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1689,
+            "job_id": 10894,
+            "skill_id": 240,
+            "created_at": "2020-05-05 09:50:45",
+            "updated_at": "2020-05-05 09:50:45",
+            "skill": {
+              "id": 240,
+              "name": "Posluživanje pića - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 1690,
+            "job_offer_id": 10894,
+            "finances_type": 2,
+            "amount": 20,
+            "created_at": "2020-05-05 09:50:37",
+            "updated_at": "2020-05-05 09:50:37",
+            "amount_formatted": "20,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [
+          {
+            "id": 29226,
+            "job_id": 10894,
+            "employee_category_id": 1,
+            "created_at": "2020-05-05 09:50:33",
+            "updated_at": "2020-05-05 09:50:33",
+            "employee_category": {
+              "id": 1,
+              "employee_type": "all",
+              "order": 10,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Svi"
+            }
+          },
+          {
+            "id": 29227,
+            "job_id": 10894,
+            "employee_category_id": 2,
+            "created_at": "2020-05-05 09:50:33",
+            "updated_at": "2020-05-05 09:50:33",
+            "employee_category": {
+              "id": 2,
+              "employee_type": "pupil",
+              "order": 20,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Učenik"
+            }
+          },
+          {
+            "id": 29228,
+            "job_id": 10894,
+            "employee_category_id": 3,
+            "created_at": "2020-05-05 09:50:33",
+            "updated_at": "2020-05-05 09:50:33",
+            "employee_category": {
+              "id": 3,
+              "employee_type": "student",
+              "order": 30,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Student"
+            }
+          },
+          {
+            "id": 29229,
+            "job_id": 10894,
+            "employee_category_id": 4,
+            "created_at": "2020-05-05 09:50:33",
+            "updated_at": "2020-05-05 09:50:33",
+            "employee_category": {
+              "id": 4,
+              "employee_type": "retired",
+              "order": 40,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Umirovljenik"
+            }
+          },
+          {
+            "id": 29230,
+            "job_id": 10894,
+            "employee_category_id": 5,
+            "created_at": "2020-05-05 09:50:33",
+            "updated_at": "2020-05-05 09:50:33",
+            "employee_category": {
+              "id": 5,
+              "employee_type": "other",
+              "order": 50,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+            }
+          },
+          {
+            "id": 29231,
+            "job_id": 10894,
+            "employee_category_id": 6,
+            "created_at": "2020-05-05 09:50:33",
+            "updated_at": "2020-05-05 09:50:33",
+            "employee_category": {
+              "id": 6,
+              "employee_type": "adult_pupil",
+              "order": 60,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Punoljetni učenik"
+            }
+          }
+        ],
+        "job_offer_categories": [],
+        "job_offer_impression_counter": {
+          "id": 5,
+          "created_at": "2020-07-14 15:41:04",
+          "updated_at": "2020-07-29 13:02:56",
+          "job_id": 10894,
+          "counter": 33
+        },
+        "job_offer_applications_counter": {
+          "id": 15,
+          "created_at": "2020-07-15 13:44:20",
+          "updated_at": "2020-07-15 13:44:20",
+          "job_id": 10894,
+          "counter": 1
+        }
+      },
+      {
+        "id": 10893,
+        "user_id": 9608,
+        "title": "posao<sup>(m/ž)</sup>",
+        "subtitle": null,
+        "description": "",
+        "workers_needed": "2",
+        "number_of_hours": null,
+        "job_image": null,
+        "ad_duration": "2020-11-16 23:59:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2020-05-05 09:47:21",
+        "updated_at": "2020-05-05 09:47:34",
+        "employer_location": 1511,
+        "slug": "posao-81",
+        "notified_rejections": null,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": null,
+        "job_link": "https://dev.danasradim.hr/posao/posao-81",
+        "user_location": {
+          "id": 1511,
+          "user_id": 9608,
+          "geo_location_id": 515,
+          "contact_person": 489,
+          "location_type": "headquarters",
+          "address": "Školska 3",
+          "zip_code": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2019-03-26 13:52:24",
+          "lat": 42.9255224,
+          "lng": 17.4290074,
+          "custom_name": null,
+          "geo_location": {
+            "id": 515,
+            "title": "Janjina",
+            "place_id": "ChIJjZnC_DSuSxMRtX_OMrH-vIc",
+            "gogole_id": null,
+            "lat": 42.9255224,
+            "lng": 17.4290074,
+            "county_id": 19,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "20246",
+            "county": {
+              "id": 19,
+              "name": "Dubrovačko-neretvanska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": {
+          "id": 9608,
+          "first_name": "Poslodava",
+          "last_name": "Poslodavac",
+          "email": "poslodavac1234@harakirimail.com",
+          "last_login": null,
+          "user_type": 2,
+          "confirmed": "confirmed",
+          "creation_token": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2020-04-22 08:49:06",
+          "student_center": null,
+          "dob": null,
+          "pupil_center": null,
+          "status": "activated",
+          "slug": "tvrtka-d-o-o",
+          "logo": [
+            {
+              "id": 8292,
+              "user_id": 9608,
+              "meta_key": "logo_image",
+              "value": "8292",
+              "created_at": "2020-03-27 13:32:40",
+              "updated_at": "2020-03-27 13:32:40",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "width": 250,
+              "height": 216,
+              "file_type": "png",
+              "storage_type": "s3",
+              "file_size": 24046,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea",
+              "sizes": [
+                {
+                  "name": "thumb",
+                  "width": 180,
+                  "height": 180,
+                  "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+                },
+                {
+                  "name": "default",
+                  "width": 900,
+                  "quality": 90,
+                  "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+                }
+              ]
+            }
+          ],
+          "company_name": [
+            {
+              "id": 11713,
+              "user_id": 9608,
+              "meta_key": "company_name",
+              "value": "Tvrtka d.o.o.",
+              "created_at": "2018-05-23 11:02:17",
+              "updated_at": "2018-08-16 07:06:01"
+            }
+          ]
+        },
+        "medium": null,
+        "job_benefits": [],
+        "job_certificates": [],
+        "job_languages": [],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 1686,
+            "job_id": 10893,
+            "skill_id": 241,
+            "created_at": "2020-05-05 09:47:30",
+            "updated_at": "2020-05-05 09:47:30",
+            "skill": {
+              "id": 241,
+              "name": "Posluživanje hrane - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1687,
+            "job_id": 10893,
+            "skill_id": 240,
+            "created_at": "2020-05-05 09:47:31",
+            "updated_at": "2020-05-05 09:47:31",
+            "skill": {
+              "id": 240,
+              "name": "Posluživanje pića - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 1689,
+            "job_offer_id": 10893,
+            "finances_type": 2,
+            "amount": 20,
+            "created_at": "2020-05-05 09:47:24",
+            "updated_at": "2020-05-05 09:47:24",
+            "amount_formatted": "20,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [
+          {
+            "id": 29220,
+            "job_id": 10893,
+            "employee_category_id": 1,
+            "created_at": "2020-05-05 09:47:21",
+            "updated_at": "2020-05-05 09:47:21",
+            "employee_category": {
+              "id": 1,
+              "employee_type": "all",
+              "order": 10,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Svi"
+            }
+          },
+          {
+            "id": 29221,
+            "job_id": 10893,
+            "employee_category_id": 2,
+            "created_at": "2020-05-05 09:47:21",
+            "updated_at": "2020-05-05 09:47:21",
+            "employee_category": {
+              "id": 2,
+              "employee_type": "pupil",
+              "order": 20,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Učenik"
+            }
+          },
+          {
+            "id": 29222,
+            "job_id": 10893,
+            "employee_category_id": 3,
+            "created_at": "2020-05-05 09:47:21",
+            "updated_at": "2020-05-05 09:47:21",
+            "employee_category": {
+              "id": 3,
+              "employee_type": "student",
+              "order": 30,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Student"
+            }
+          },
+          {
+            "id": 29223,
+            "job_id": 10893,
+            "employee_category_id": 4,
+            "created_at": "2020-05-05 09:47:21",
+            "updated_at": "2020-05-05 09:47:21",
+            "employee_category": {
+              "id": 4,
+              "employee_type": "retired",
+              "order": 40,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Umirovljenik"
+            }
+          },
+          {
+            "id": 29224,
+            "job_id": 10893,
+            "employee_category_id": 5,
+            "created_at": "2020-05-05 09:47:21",
+            "updated_at": "2020-05-05 09:47:21",
+            "employee_category": {
+              "id": 5,
+              "employee_type": "other",
+              "order": 50,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+            }
+          },
+          {
+            "id": 29225,
+            "job_id": 10893,
+            "employee_category_id": 6,
+            "created_at": "2020-05-05 09:47:21",
+            "updated_at": "2020-05-05 09:47:21",
+            "employee_category": {
+              "id": 6,
+              "employee_type": "adult_pupil",
+              "order": 60,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Punoljetni učenik"
+            }
+          }
+        ],
+        "job_offer_categories": [],
+        "job_offer_impression_counter": {
+          "id": 36,
+          "created_at": "2020-07-15 11:36:44",
+          "updated_at": "2020-07-23 18:03:46",
+          "job_id": 10893,
+          "counter": 18
+        },
+        "job_offer_applications_counter": null
+      },
+      {
+        "id": 10892,
+        "user_id": 9608,
+        "title": "TEst<sup>(m/ž)</sup>",
+        "subtitle": null,
+        "description": "",
+        "workers_needed": "2",
+        "number_of_hours": null,
+        "job_image": null,
+        "ad_duration": "2020-12-20 23:59:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2020-05-05 09:44:11",
+        "updated_at": "2020-05-05 09:44:25",
+        "employer_location": 1511,
+        "slug": "test-431",
+        "notified_rejections": null,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": null,
+        "job_link": "https://dev.danasradim.hr/posao/test-431",
+        "user_location": {
+          "id": 1511,
+          "user_id": 9608,
+          "geo_location_id": 515,
+          "contact_person": 489,
+          "location_type": "headquarters",
+          "address": "Školska 3",
+          "zip_code": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2019-03-26 13:52:24",
+          "lat": 42.9255224,
+          "lng": 17.4290074,
+          "custom_name": null,
+          "geo_location": {
+            "id": 515,
+            "title": "Janjina",
+            "place_id": "ChIJjZnC_DSuSxMRtX_OMrH-vIc",
+            "gogole_id": null,
+            "lat": 42.9255224,
+            "lng": 17.4290074,
+            "county_id": 19,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "20246",
+            "county": {
+              "id": 19,
+              "name": "Dubrovačko-neretvanska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": {
+          "id": 9608,
+          "first_name": "Poslodava",
+          "last_name": "Poslodavac",
+          "email": "poslodavac1234@harakirimail.com",
+          "last_login": null,
+          "user_type": 2,
+          "confirmed": "confirmed",
+          "creation_token": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2020-04-22 08:49:06",
+          "student_center": null,
+          "dob": null,
+          "pupil_center": null,
+          "status": "activated",
+          "slug": "tvrtka-d-o-o",
+          "logo": [
+            {
+              "id": 8292,
+              "user_id": 9608,
+              "meta_key": "logo_image",
+              "value": "8292",
+              "created_at": "2020-03-27 13:32:40",
+              "updated_at": "2020-03-27 13:32:40",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "width": 250,
+              "height": 216,
+              "file_type": "png",
+              "storage_type": "s3",
+              "file_size": 24046,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea",
+              "sizes": [
+                {
+                  "name": "thumb",
+                  "width": 180,
+                  "height": 180,
+                  "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+                },
+                {
+                  "name": "default",
+                  "width": 900,
+                  "quality": 90,
+                  "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+                }
+              ]
+            }
+          ],
+          "company_name": [
+            {
+              "id": 11713,
+              "user_id": 9608,
+              "meta_key": "company_name",
+              "value": "Tvrtka d.o.o.",
+              "created_at": "2018-05-23 11:02:17",
+              "updated_at": "2018-08-16 07:06:01"
+            }
+          ]
+        },
+        "medium": null,
+        "job_benefits": [],
+        "job_certificates": [],
+        "job_languages": [],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 1684,
+            "job_id": 10892,
+            "skill_id": 241,
+            "created_at": "2020-05-05 09:44:19",
+            "updated_at": "2020-05-05 09:44:19",
+            "skill": {
+              "id": 241,
+              "name": "Posluživanje hrane - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1685,
+            "job_id": 10892,
+            "skill_id": 240,
+            "created_at": "2020-05-05 09:44:20",
+            "updated_at": "2020-05-05 09:44:20",
+            "skill": {
+              "id": 240,
+              "name": "Posluživanje pića - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 1688,
+            "job_offer_id": 10892,
+            "finances_type": 2,
+            "amount": 20,
+            "created_at": "2020-05-05 09:44:14",
+            "updated_at": "2020-05-05 09:44:14",
+            "amount_formatted": "20,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [
+          {
+            "id": 29214,
+            "job_id": 10892,
+            "employee_category_id": 1,
+            "created_at": "2020-05-05 09:44:11",
+            "updated_at": "2020-05-05 09:44:11",
+            "employee_category": {
+              "id": 1,
+              "employee_type": "all",
+              "order": 10,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Svi"
+            }
+          },
+          {
+            "id": 29215,
+            "job_id": 10892,
+            "employee_category_id": 2,
+            "created_at": "2020-05-05 09:44:11",
+            "updated_at": "2020-05-05 09:44:11",
+            "employee_category": {
+              "id": 2,
+              "employee_type": "pupil",
+              "order": 20,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Učenik"
+            }
+          },
+          {
+            "id": 29216,
+            "job_id": 10892,
+            "employee_category_id": 3,
+            "created_at": "2020-05-05 09:44:11",
+            "updated_at": "2020-05-05 09:44:11",
+            "employee_category": {
+              "id": 3,
+              "employee_type": "student",
+              "order": 30,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Student"
+            }
+          },
+          {
+            "id": 29217,
+            "job_id": 10892,
+            "employee_category_id": 4,
+            "created_at": "2020-05-05 09:44:11",
+            "updated_at": "2020-05-05 09:44:11",
+            "employee_category": {
+              "id": 4,
+              "employee_type": "retired",
+              "order": 40,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Umirovljenik"
+            }
+          },
+          {
+            "id": 29218,
+            "job_id": 10892,
+            "employee_category_id": 5,
+            "created_at": "2020-05-05 09:44:11",
+            "updated_at": "2020-05-05 09:44:11",
+            "employee_category": {
+              "id": 5,
+              "employee_type": "other",
+              "order": 50,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+            }
+          },
+          {
+            "id": 29219,
+            "job_id": 10892,
+            "employee_category_id": 6,
+            "created_at": "2020-05-05 09:44:11",
+            "updated_at": "2020-05-05 09:44:11",
+            "employee_category": {
+              "id": 6,
+              "employee_type": "adult_pupil",
+              "order": 60,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Punoljetni učenik"
+            }
+          }
+        ],
+        "job_offer_categories": [],
+        "job_offer_impression_counter": {
+          "id": 31,
+          "created_at": "2020-07-15 09:44:08",
+          "updated_at": "2020-07-22 16:32:02",
+          "job_id": 10892,
+          "counter": 21
+        },
+        "job_offer_applications_counter": {
+          "id": 9,
+          "created_at": "2020-07-15 09:44:10",
+          "updated_at": "2020-07-15 09:44:10",
+          "job_id": 10892,
+          "counter": 2
+        }
+      },
+      {
+        "id": 10890,
+        "user_id": 9608,
+        "title": "Test posao<sup>(m/ž)</sup>",
+        "subtitle": null,
+        "description": "",
+        "workers_needed": "2",
+        "number_of_hours": null,
+        "job_image": null,
+        "ad_duration": "2020-08-21 23:59:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2020-05-05 09:41:05",
+        "updated_at": "2020-05-05 09:41:22",
+        "employer_location": 1511,
+        "slug": "test-posao-17",
+        "notified_rejections": null,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": null,
+        "job_link": "https://dev.danasradim.hr/posao/test-posao-17",
+        "user_location": {
+          "id": 1511,
+          "user_id": 9608,
+          "geo_location_id": 515,
+          "contact_person": 489,
+          "location_type": "headquarters",
+          "address": "Školska 3",
+          "zip_code": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2019-03-26 13:52:24",
+          "lat": 42.9255224,
+          "lng": 17.4290074,
+          "custom_name": null,
+          "geo_location": {
+            "id": 515,
+            "title": "Janjina",
+            "place_id": "ChIJjZnC_DSuSxMRtX_OMrH-vIc",
+            "gogole_id": null,
+            "lat": 42.9255224,
+            "lng": 17.4290074,
+            "county_id": 19,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "20246",
+            "county": {
+              "id": 19,
+              "name": "Dubrovačko-neretvanska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": {
+          "id": 9608,
+          "first_name": "Poslodava",
+          "last_name": "Poslodavac",
+          "email": "poslodavac1234@harakirimail.com",
+          "last_login": null,
+          "user_type": 2,
+          "confirmed": "confirmed",
+          "creation_token": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2020-04-22 08:49:06",
+          "student_center": null,
+          "dob": null,
+          "pupil_center": null,
+          "status": "activated",
+          "slug": "tvrtka-d-o-o",
+          "logo": [
+            {
+              "id": 8292,
+              "user_id": 9608,
+              "meta_key": "logo_image",
+              "value": "8292",
+              "created_at": "2020-03-27 13:32:40",
+              "updated_at": "2020-03-27 13:32:40",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "width": 250,
+              "height": 216,
+              "file_type": "png",
+              "storage_type": "s3",
+              "file_size": 24046,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea",
+              "sizes": [
+                {
+                  "name": "thumb",
+                  "width": 180,
+                  "height": 180,
+                  "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+                },
+                {
+                  "name": "default",
+                  "width": 900,
+                  "quality": 90,
+                  "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+                }
+              ]
+            }
+          ],
+          "company_name": [
+            {
+              "id": 11713,
+              "user_id": 9608,
+              "meta_key": "company_name",
+              "value": "Tvrtka d.o.o.",
+              "created_at": "2018-05-23 11:02:17",
+              "updated_at": "2018-08-16 07:06:01"
+            }
+          ]
+        },
+        "medium": null,
+        "job_benefits": [],
+        "job_certificates": [],
+        "job_languages": [],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 1679,
+            "job_id": 10890,
+            "skill_id": 241,
+            "created_at": "2020-05-05 09:41:16",
+            "updated_at": "2020-05-05 09:41:16",
+            "skill": {
+              "id": 241,
+              "name": "Posluživanje hrane - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1680,
+            "job_id": 10890,
+            "skill_id": 240,
+            "created_at": "2020-05-05 09:41:17",
+            "updated_at": "2020-05-05 09:41:17",
+            "skill": {
+              "id": 240,
+              "name": "Posluživanje pića - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 1686,
+            "job_offer_id": 10890,
+            "finances_type": 2,
+            "amount": 20,
+            "created_at": "2020-05-05 09:41:08",
+            "updated_at": "2020-05-05 09:41:08",
+            "amount_formatted": "20,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [
+          {
+            "id": 29202,
+            "job_id": 10890,
+            "employee_category_id": 1,
+            "created_at": "2020-05-05 09:41:05",
+            "updated_at": "2020-05-05 09:41:05",
+            "employee_category": {
+              "id": 1,
+              "employee_type": "all",
+              "order": 10,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Svi"
+            }
+          },
+          {
+            "id": 29203,
+            "job_id": 10890,
+            "employee_category_id": 2,
+            "created_at": "2020-05-05 09:41:05",
+            "updated_at": "2020-05-05 09:41:05",
+            "employee_category": {
+              "id": 2,
+              "employee_type": "pupil",
+              "order": 20,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Učenik"
+            }
+          },
+          {
+            "id": 29204,
+            "job_id": 10890,
+            "employee_category_id": 3,
+            "created_at": "2020-05-05 09:41:05",
+            "updated_at": "2020-05-05 09:41:05",
+            "employee_category": {
+              "id": 3,
+              "employee_type": "student",
+              "order": 30,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Student"
+            }
+          },
+          {
+            "id": 29205,
+            "job_id": 10890,
+            "employee_category_id": 4,
+            "created_at": "2020-05-05 09:41:05",
+            "updated_at": "2020-05-05 09:41:05",
+            "employee_category": {
+              "id": 4,
+              "employee_type": "retired",
+              "order": 40,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Umirovljenik"
+            }
+          },
+          {
+            "id": 29206,
+            "job_id": 10890,
+            "employee_category_id": 5,
+            "created_at": "2020-05-05 09:41:05",
+            "updated_at": "2020-05-05 09:41:05",
+            "employee_category": {
+              "id": 5,
+              "employee_type": "other",
+              "order": 50,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+            }
+          },
+          {
+            "id": 29207,
+            "job_id": 10890,
+            "employee_category_id": 6,
+            "created_at": "2020-05-05 09:41:05",
+            "updated_at": "2020-05-05 09:41:05",
+            "employee_category": {
+              "id": 6,
+              "employee_type": "adult_pupil",
+              "order": 60,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Punoljetni učenik"
+            }
+          }
+        ],
+        "job_offer_categories": [],
+        "job_offer_impression_counter": {
+          "id": 25,
+          "created_at": "2020-07-15 08:55:12",
+          "updated_at": "2020-07-21 07:21:21",
+          "job_id": 10890,
+          "counter": 10
+        },
+        "job_offer_applications_counter": {
+          "id": 29,
+          "created_at": "2020-07-17 12:53:57",
+          "updated_at": "2020-07-17 12:53:57",
+          "job_id": 10890,
+          "counter": 1
+        }
+      },
+      {
+        "id": 10887,
+        "user_id": 9608,
+        "title": "Maniker<sup>(m/ž)</sup>",
+        "subtitle": null,
+        "description": "",
+        "workers_needed": "1",
+        "number_of_hours": null,
+        "job_image": null,
+        "ad_duration": "2020-08-09 23:59:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2020-05-05 08:36:39",
+        "updated_at": "2020-05-05 08:37:02",
+        "employer_location": 1511,
+        "slug": "maniker-1",
+        "notified_rejections": null,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": null,
+        "job_link": "https://dev.danasradim.hr/posao/maniker-1",
+        "user_location": {
+          "id": 1511,
+          "user_id": 9608,
+          "geo_location_id": 515,
+          "contact_person": 489,
+          "location_type": "headquarters",
+          "address": "Školska 3",
+          "zip_code": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2019-03-26 13:52:24",
+          "lat": 42.9255224,
+          "lng": 17.4290074,
+          "custom_name": null,
+          "geo_location": {
+            "id": 515,
+            "title": "Janjina",
+            "place_id": "ChIJjZnC_DSuSxMRtX_OMrH-vIc",
+            "gogole_id": null,
+            "lat": 42.9255224,
+            "lng": 17.4290074,
+            "county_id": 19,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "20246",
+            "county": {
+              "id": 19,
+              "name": "Dubrovačko-neretvanska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": {
+          "id": 9608,
+          "first_name": "Poslodava",
+          "last_name": "Poslodavac",
+          "email": "poslodavac1234@harakirimail.com",
+          "last_login": null,
+          "user_type": 2,
+          "confirmed": "confirmed",
+          "creation_token": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2020-04-22 08:49:06",
+          "student_center": null,
+          "dob": null,
+          "pupil_center": null,
+          "status": "activated",
+          "slug": "tvrtka-d-o-o",
+          "logo": [
+            {
+              "id": 8292,
+              "user_id": 9608,
+              "meta_key": "logo_image",
+              "value": "8292",
+              "created_at": "2020-03-27 13:32:40",
+              "updated_at": "2020-03-27 13:32:40",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "width": 250,
+              "height": 216,
+              "file_type": "png",
+              "storage_type": "s3",
+              "file_size": 24046,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea",
+              "sizes": [
+                {
+                  "name": "thumb",
+                  "width": 180,
+                  "height": 180,
+                  "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+                },
+                {
+                  "name": "default",
+                  "width": 900,
+                  "quality": 90,
+                  "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+                }
+              ]
+            }
+          ],
+          "company_name": [
+            {
+              "id": 11713,
+              "user_id": 9608,
+              "meta_key": "company_name",
+              "value": "Tvrtka d.o.o.",
+              "created_at": "2018-05-23 11:02:17",
+              "updated_at": "2018-08-16 07:06:01"
+            }
+          ]
+        },
+        "medium": null,
+        "job_benefits": [],
+        "job_certificates": [],
+        "job_languages": [],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 1672,
+            "job_id": 10887,
+            "skill_id": 241,
+            "created_at": "2020-05-05 08:36:55",
+            "updated_at": "2020-05-05 08:36:55",
+            "skill": {
+              "id": 241,
+              "name": "Posluživanje hrane - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1673,
+            "job_id": 10887,
+            "skill_id": 240,
+            "created_at": "2020-05-05 08:36:57",
+            "updated_at": "2020-05-05 08:36:57",
+            "skill": {
+              "id": 240,
+              "name": "Posluživanje pića - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 1683,
+            "job_offer_id": 10887,
+            "finances_type": 2,
+            "amount": 30,
+            "created_at": "2020-05-05 08:36:46",
+            "updated_at": "2020-05-05 08:36:46",
+            "amount_formatted": "30,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [
+          {
+            "id": 29184,
+            "job_id": 10887,
+            "employee_category_id": 1,
+            "created_at": "2020-05-05 08:36:39",
+            "updated_at": "2020-05-05 08:36:39",
+            "employee_category": {
+              "id": 1,
+              "employee_type": "all",
+              "order": 10,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Svi"
+            }
+          },
+          {
+            "id": 29185,
+            "job_id": 10887,
+            "employee_category_id": 2,
+            "created_at": "2020-05-05 08:36:39",
+            "updated_at": "2020-05-05 08:36:39",
+            "employee_category": {
+              "id": 2,
+              "employee_type": "pupil",
+              "order": 20,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Učenik"
+            }
+          },
+          {
+            "id": 29186,
+            "job_id": 10887,
+            "employee_category_id": 3,
+            "created_at": "2020-05-05 08:36:39",
+            "updated_at": "2020-05-05 08:36:39",
+            "employee_category": {
+              "id": 3,
+              "employee_type": "student",
+              "order": 30,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Student"
+            }
+          },
+          {
+            "id": 29187,
+            "job_id": 10887,
+            "employee_category_id": 4,
+            "created_at": "2020-05-05 08:36:39",
+            "updated_at": "2020-05-05 08:36:39",
+            "employee_category": {
+              "id": 4,
+              "employee_type": "retired",
+              "order": 40,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Umirovljenik"
+            }
+          },
+          {
+            "id": 29188,
+            "job_id": 10887,
+            "employee_category_id": 5,
+            "created_at": "2020-05-05 08:36:39",
+            "updated_at": "2020-05-05 08:36:39",
+            "employee_category": {
+              "id": 5,
+              "employee_type": "other",
+              "order": 50,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+            }
+          },
+          {
+            "id": 29189,
+            "job_id": 10887,
+            "employee_category_id": 6,
+            "created_at": "2020-05-05 08:36:39",
+            "updated_at": "2020-05-05 08:36:39",
+            "employee_category": {
+              "id": 6,
+              "employee_type": "adult_pupil",
+              "order": 60,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Punoljetni učenik"
+            }
+          }
+        ],
+        "job_offer_categories": [],
+        "job_offer_impression_counter": {
+          "id": 6,
+          "created_at": "2020-07-14 15:55:53",
+          "updated_at": "2020-07-29 12:21:17",
+          "job_id": 10887,
+          "counter": 23
+        },
+        "job_offer_applications_counter": {
+          "id": 1,
+          "created_at": "2020-07-14 15:55:57",
+          "updated_at": "2020-07-14 15:55:57",
+          "job_id": 10887,
+          "counter": 6
+        }
+      },
+      {
+        "id": 10884,
+        "user_id": 9608,
+        "title": "Agent u call centru<sup>(m/ž)</sup>",
+        "subtitle": null,
+        "description": "",
+        "workers_needed": "10",
+        "number_of_hours": null,
+        "job_image": null,
+        "ad_duration": "2020-11-16 23:59:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2020-05-04 11:42:03",
+        "updated_at": "2020-05-04 11:42:28",
+        "employer_location": 1511,
+        "slug": "agent-u-call-centru-1",
+        "notified_rejections": null,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": null,
+        "job_link": "https://dev.danasradim.hr/posao/agent-u-call-centru-1",
+        "user_location": {
+          "id": 1511,
+          "user_id": 9608,
+          "geo_location_id": 515,
+          "contact_person": 489,
+          "location_type": "headquarters",
+          "address": "Školska 3",
+          "zip_code": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2019-03-26 13:52:24",
+          "lat": 42.9255224,
+          "lng": 17.4290074,
+          "custom_name": null,
+          "geo_location": {
+            "id": 515,
+            "title": "Janjina",
+            "place_id": "ChIJjZnC_DSuSxMRtX_OMrH-vIc",
+            "gogole_id": null,
+            "lat": 42.9255224,
+            "lng": 17.4290074,
+            "county_id": 19,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "20246",
+            "county": {
+              "id": 19,
+              "name": "Dubrovačko-neretvanska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": {
+          "id": 9608,
+          "first_name": "Poslodava",
+          "last_name": "Poslodavac",
+          "email": "poslodavac1234@harakirimail.com",
+          "last_login": null,
+          "user_type": 2,
+          "confirmed": "confirmed",
+          "creation_token": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2020-04-22 08:49:06",
+          "student_center": null,
+          "dob": null,
+          "pupil_center": null,
+          "status": "activated",
+          "slug": "tvrtka-d-o-o",
+          "logo": [
+            {
+              "id": 8292,
+              "user_id": 9608,
+              "meta_key": "logo_image",
+              "value": "8292",
+              "created_at": "2020-03-27 13:32:40",
+              "updated_at": "2020-03-27 13:32:40",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "width": 250,
+              "height": 216,
+              "file_type": "png",
+              "storage_type": "s3",
+              "file_size": 24046,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea",
+              "sizes": [
+                {
+                  "name": "thumb",
+                  "width": 180,
+                  "height": 180,
+                  "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+                },
+                {
+                  "name": "default",
+                  "width": 900,
+                  "quality": 90,
+                  "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+                }
+              ]
+            }
+          ],
+          "company_name": [
+            {
+              "id": 11713,
+              "user_id": 9608,
+              "meta_key": "company_name",
+              "value": "Tvrtka d.o.o.",
+              "created_at": "2018-05-23 11:02:17",
+              "updated_at": "2018-08-16 07:06:01"
+            }
+          ]
+        },
+        "medium": null,
+        "job_benefits": [],
+        "job_certificates": [],
+        "job_languages": [],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 1666,
+            "job_id": 10884,
+            "skill_id": 241,
+            "created_at": "2020-05-04 11:42:15",
+            "updated_at": "2020-05-04 11:42:15",
+            "skill": {
+              "id": 241,
+              "name": "Posluživanje hrane - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1667,
+            "job_id": 10884,
+            "skill_id": 240,
+            "created_at": "2020-05-04 11:42:17",
+            "updated_at": "2020-05-04 11:42:17",
+            "skill": {
+              "id": 240,
+              "name": "Posluživanje pića - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 1680,
+            "job_offer_id": 10884,
+            "finances_type": 2,
+            "amount": 25,
+            "created_at": "2020-05-04 11:42:09",
+            "updated_at": "2020-05-04 11:42:09",
+            "amount_formatted": "25,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [
+          {
+            "id": 29166,
+            "job_id": 10884,
+            "employee_category_id": 1,
+            "created_at": "2020-05-04 11:42:03",
+            "updated_at": "2020-05-04 11:42:03",
+            "employee_category": {
+              "id": 1,
+              "employee_type": "all",
+              "order": 10,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Svi"
+            }
+          },
+          {
+            "id": 29167,
+            "job_id": 10884,
+            "employee_category_id": 2,
+            "created_at": "2020-05-04 11:42:03",
+            "updated_at": "2020-05-04 11:42:03",
+            "employee_category": {
+              "id": 2,
+              "employee_type": "pupil",
+              "order": 20,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Učenik"
+            }
+          },
+          {
+            "id": 29168,
+            "job_id": 10884,
+            "employee_category_id": 3,
+            "created_at": "2020-05-04 11:42:03",
+            "updated_at": "2020-05-04 11:42:03",
+            "employee_category": {
+              "id": 3,
+              "employee_type": "student",
+              "order": 30,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Student"
+            }
+          },
+          {
+            "id": 29169,
+            "job_id": 10884,
+            "employee_category_id": 4,
+            "created_at": "2020-05-04 11:42:03",
+            "updated_at": "2020-05-04 11:42:03",
+            "employee_category": {
+              "id": 4,
+              "employee_type": "retired",
+              "order": 40,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Umirovljenik"
+            }
+          },
+          {
+            "id": 29170,
+            "job_id": 10884,
+            "employee_category_id": 5,
+            "created_at": "2020-05-04 11:42:03",
+            "updated_at": "2020-05-04 11:42:03",
+            "employee_category": {
+              "id": 5,
+              "employee_type": "other",
+              "order": 50,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+            }
+          },
+          {
+            "id": 29171,
+            "job_id": 10884,
+            "employee_category_id": 6,
+            "created_at": "2020-05-04 11:42:03",
+            "updated_at": "2020-05-04 11:42:03",
+            "employee_category": {
+              "id": 6,
+              "employee_type": "adult_pupil",
+              "order": 60,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Punoljetni učenik"
+            }
+          }
+        ],
+        "job_offer_categories": [],
+        "job_offer_impression_counter": {
+          "id": 37,
+          "created_at": "2020-07-15 13:36:48",
+          "updated_at": "2020-07-22 16:39:39",
+          "job_id": 10884,
+          "counter": 10
+        },
+        "job_offer_applications_counter": {
+          "id": 17,
+          "created_at": "2020-07-16 07:33:49",
+          "updated_at": "2020-07-16 07:33:49",
+          "job_id": 10884,
+          "counter": 4
+        }
+      },
+      {
+        "id": 10883,
+        "user_id": 9608,
+        "title": "Vrtlar<sup>(m/ž)</sup>",
+        "subtitle": null,
+        "description": "",
+        "workers_needed": "2",
+        "number_of_hours": null,
+        "job_image": null,
+        "ad_duration": "2020-10-10 23:59:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2020-05-04 11:23:04",
+        "updated_at": "2020-05-04 11:23:30",
+        "employer_location": 1511,
+        "slug": "vrtlar",
+        "notified_rejections": null,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": null,
+        "job_link": "https://dev.danasradim.hr/posao/vrtlar",
+        "user_location": {
+          "id": 1511,
+          "user_id": 9608,
+          "geo_location_id": 515,
+          "contact_person": 489,
+          "location_type": "headquarters",
+          "address": "Školska 3",
+          "zip_code": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2019-03-26 13:52:24",
+          "lat": 42.9255224,
+          "lng": 17.4290074,
+          "custom_name": null,
+          "geo_location": {
+            "id": 515,
+            "title": "Janjina",
+            "place_id": "ChIJjZnC_DSuSxMRtX_OMrH-vIc",
+            "gogole_id": null,
+            "lat": 42.9255224,
+            "lng": 17.4290074,
+            "county_id": 19,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "20246",
+            "county": {
+              "id": 19,
+              "name": "Dubrovačko-neretvanska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": {
+          "id": 9608,
+          "first_name": "Poslodava",
+          "last_name": "Poslodavac",
+          "email": "poslodavac1234@harakirimail.com",
+          "last_login": null,
+          "user_type": 2,
+          "confirmed": "confirmed",
+          "creation_token": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2020-04-22 08:49:06",
+          "student_center": null,
+          "dob": null,
+          "pupil_center": null,
+          "status": "activated",
+          "slug": "tvrtka-d-o-o",
+          "logo": [
+            {
+              "id": 8292,
+              "user_id": 9608,
+              "meta_key": "logo_image",
+              "value": "8292",
+              "created_at": "2020-03-27 13:32:40",
+              "updated_at": "2020-03-27 13:32:40",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "width": 250,
+              "height": 216,
+              "file_type": "png",
+              "storage_type": "s3",
+              "file_size": 24046,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea",
+              "sizes": [
+                {
+                  "name": "thumb",
+                  "width": 180,
+                  "height": 180,
+                  "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+                },
+                {
+                  "name": "default",
+                  "width": 900,
+                  "quality": 90,
+                  "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+                }
+              ]
+            }
+          ],
+          "company_name": [
+            {
+              "id": 11713,
+              "user_id": 9608,
+              "meta_key": "company_name",
+              "value": "Tvrtka d.o.o.",
+              "created_at": "2018-05-23 11:02:17",
+              "updated_at": "2018-08-16 07:06:01"
+            }
+          ]
+        },
+        "medium": null,
+        "job_benefits": [],
+        "job_certificates": [],
+        "job_languages": [],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 1664,
+            "job_id": 10883,
+            "skill_id": 241,
+            "created_at": "2020-05-04 11:23:23",
+            "updated_at": "2020-05-04 11:23:23",
+            "skill": {
+              "id": 241,
+              "name": "Posluživanje hrane - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1665,
+            "job_id": 10883,
+            "skill_id": 240,
+            "created_at": "2020-05-04 11:23:24",
+            "updated_at": "2020-05-04 11:23:24",
+            "skill": {
+              "id": 240,
+              "name": "Posluživanje pića - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 1679,
+            "job_offer_id": 10883,
+            "finances_type": 2,
+            "amount": 20,
+            "created_at": "2020-05-04 11:23:10",
+            "updated_at": "2020-05-04 11:23:10",
+            "amount_formatted": "20,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [
+          {
+            "id": 29160,
+            "job_id": 10883,
+            "employee_category_id": 1,
+            "created_at": "2020-05-04 11:23:04",
+            "updated_at": "2020-05-04 11:23:04",
+            "employee_category": {
+              "id": 1,
+              "employee_type": "all",
+              "order": 10,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Svi"
+            }
+          },
+          {
+            "id": 29161,
+            "job_id": 10883,
+            "employee_category_id": 2,
+            "created_at": "2020-05-04 11:23:04",
+            "updated_at": "2020-05-04 11:23:04",
+            "employee_category": {
+              "id": 2,
+              "employee_type": "pupil",
+              "order": 20,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Učenik"
+            }
+          },
+          {
+            "id": 29162,
+            "job_id": 10883,
+            "employee_category_id": 3,
+            "created_at": "2020-05-04 11:23:04",
+            "updated_at": "2020-05-04 11:23:04",
+            "employee_category": {
+              "id": 3,
+              "employee_type": "student",
+              "order": 30,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Student"
+            }
+          },
+          {
+            "id": 29163,
+            "job_id": 10883,
+            "employee_category_id": 4,
+            "created_at": "2020-05-04 11:23:04",
+            "updated_at": "2020-05-04 11:23:04",
+            "employee_category": {
+              "id": 4,
+              "employee_type": "retired",
+              "order": 40,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Umirovljenik"
+            }
+          },
+          {
+            "id": 29164,
+            "job_id": 10883,
+            "employee_category_id": 5,
+            "created_at": "2020-05-04 11:23:04",
+            "updated_at": "2020-05-04 11:23:04",
+            "employee_category": {
+              "id": 5,
+              "employee_type": "other",
+              "order": 50,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+            }
+          },
+          {
+            "id": 29165,
+            "job_id": 10883,
+            "employee_category_id": 6,
+            "created_at": "2020-05-04 11:23:04",
+            "updated_at": "2020-05-04 11:23:04",
+            "employee_category": {
+              "id": 6,
+              "employee_type": "adult_pupil",
+              "order": 60,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Punoljetni učenik"
+            }
+          }
+        ],
+        "job_offer_categories": [],
+        "job_offer_impression_counter": {
+          "id": 34,
+          "created_at": "2020-07-15 10:58:25",
+          "updated_at": "2020-07-29 13:02:35",
+          "job_id": 10883,
+          "counter": 35
+        },
+        "job_offer_applications_counter": {
+          "id": 14,
+          "created_at": "2020-07-15 10:59:13",
+          "updated_at": "2020-07-15 10:59:13",
+          "job_id": 10883,
+          "counter": 4
+        }
+      },
+      {
+        "id": 10882,
+        "user_id": 9608,
+        "title": "Kuhar<sup>(m/ž)</sup>",
+        "subtitle": null,
+        "description": "",
+        "workers_needed": "1",
+        "number_of_hours": null,
+        "job_image": null,
+        "ad_duration": "2020-10-19 23:59:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2020-05-04 11:17:09",
+        "updated_at": "2020-05-04 11:17:28",
+        "employer_location": 1511,
+        "slug": "kuhar-1",
+        "notified_rejections": null,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": null,
+        "job_link": "https://dev.danasradim.hr/posao/kuhar-1",
+        "user_location": {
+          "id": 1511,
+          "user_id": 9608,
+          "geo_location_id": 515,
+          "contact_person": 489,
+          "location_type": "headquarters",
+          "address": "Školska 3",
+          "zip_code": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2019-03-26 13:52:24",
+          "lat": 42.9255224,
+          "lng": 17.4290074,
+          "custom_name": null,
+          "geo_location": {
+            "id": 515,
+            "title": "Janjina",
+            "place_id": "ChIJjZnC_DSuSxMRtX_OMrH-vIc",
+            "gogole_id": null,
+            "lat": 42.9255224,
+            "lng": 17.4290074,
+            "county_id": 19,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "20246",
+            "county": {
+              "id": 19,
+              "name": "Dubrovačko-neretvanska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": {
+          "id": 9608,
+          "first_name": "Poslodava",
+          "last_name": "Poslodavac",
+          "email": "poslodavac1234@harakirimail.com",
+          "last_login": null,
+          "user_type": 2,
+          "confirmed": "confirmed",
+          "creation_token": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2020-04-22 08:49:06",
+          "student_center": null,
+          "dob": null,
+          "pupil_center": null,
+          "status": "activated",
+          "slug": "tvrtka-d-o-o",
+          "logo": [
+            {
+              "id": 8292,
+              "user_id": 9608,
+              "meta_key": "logo_image",
+              "value": "8292",
+              "created_at": "2020-03-27 13:32:40",
+              "updated_at": "2020-03-27 13:32:40",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "width": 250,
+              "height": 216,
+              "file_type": "png",
+              "storage_type": "s3",
+              "file_size": 24046,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea",
+              "sizes": [
+                {
+                  "name": "thumb",
+                  "width": 180,
+                  "height": 180,
+                  "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+                },
+                {
+                  "name": "default",
+                  "width": 900,
+                  "quality": 90,
+                  "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+                }
+              ]
+            }
+          ],
+          "company_name": [
+            {
+              "id": 11713,
+              "user_id": 9608,
+              "meta_key": "company_name",
+              "value": "Tvrtka d.o.o.",
+              "created_at": "2018-05-23 11:02:17",
+              "updated_at": "2018-08-16 07:06:01"
+            }
+          ]
+        },
+        "medium": null,
+        "job_benefits": [],
+        "job_certificates": [],
+        "job_languages": [],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 1662,
+            "job_id": 10882,
+            "skill_id": 241,
+            "created_at": "2020-05-04 11:17:21",
+            "updated_at": "2020-05-04 11:17:21",
+            "skill": {
+              "id": 241,
+              "name": "Posluživanje hrane - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1663,
+            "job_id": 10882,
+            "skill_id": 240,
+            "created_at": "2020-05-04 11:17:23",
+            "updated_at": "2020-05-04 11:17:23",
+            "skill": {
+              "id": 240,
+              "name": "Posluživanje pića - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 1678,
+            "job_offer_id": 10882,
+            "finances_type": 2,
+            "amount": 30,
+            "created_at": "2020-05-04 11:17:14",
+            "updated_at": "2020-05-04 11:17:14",
+            "amount_formatted": "30,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [
+          {
+            "id": 29154,
+            "job_id": 10882,
+            "employee_category_id": 1,
+            "created_at": "2020-05-04 11:17:09",
+            "updated_at": "2020-05-04 11:17:09",
+            "employee_category": {
+              "id": 1,
+              "employee_type": "all",
+              "order": 10,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Svi"
+            }
+          },
+          {
+            "id": 29155,
+            "job_id": 10882,
+            "employee_category_id": 2,
+            "created_at": "2020-05-04 11:17:09",
+            "updated_at": "2020-05-04 11:17:09",
+            "employee_category": {
+              "id": 2,
+              "employee_type": "pupil",
+              "order": 20,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Učenik"
+            }
+          },
+          {
+            "id": 29156,
+            "job_id": 10882,
+            "employee_category_id": 3,
+            "created_at": "2020-05-04 11:17:09",
+            "updated_at": "2020-05-04 11:17:09",
+            "employee_category": {
+              "id": 3,
+              "employee_type": "student",
+              "order": 30,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Student"
+            }
+          },
+          {
+            "id": 29157,
+            "job_id": 10882,
+            "employee_category_id": 4,
+            "created_at": "2020-05-04 11:17:09",
+            "updated_at": "2020-05-04 11:17:09",
+            "employee_category": {
+              "id": 4,
+              "employee_type": "retired",
+              "order": 40,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Umirovljenik"
+            }
+          },
+          {
+            "id": 29158,
+            "job_id": 10882,
+            "employee_category_id": 5,
+            "created_at": "2020-05-04 11:17:09",
+            "updated_at": "2020-05-04 11:17:09",
+            "employee_category": {
+              "id": 5,
+              "employee_type": "other",
+              "order": 50,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+            }
+          },
+          {
+            "id": 29159,
+            "job_id": 10882,
+            "employee_category_id": 6,
+            "created_at": "2020-05-04 11:17:09",
+            "updated_at": "2020-05-04 11:17:09",
+            "employee_category": {
+              "id": 6,
+              "employee_type": "adult_pupil",
+              "order": 60,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Punoljetni učenik"
+            }
+          }
+        ],
+        "job_offer_categories": [],
+        "job_offer_impression_counter": {
+          "id": 33,
+          "created_at": "2020-07-15 10:51:41",
+          "updated_at": "2020-07-20 14:03:33",
+          "job_id": 10882,
+          "counter": 13
+        },
+        "job_offer_applications_counter": null
+      },
+      {
+        "id": 10877,
+        "user_id": 9608,
+        "title": "Berač jabuka<sup>(m/ž)</sup>",
+        "subtitle": null,
+        "description": "",
+        "workers_needed": "6",
+        "number_of_hours": null,
+        "job_image": null,
+        "ad_duration": "2020-11-18 23:59:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2020-04-30 16:35:43",
+        "updated_at": "2020-04-30 16:36:03",
+        "employer_location": 1511,
+        "slug": "berac-jabuka-25",
+        "notified_rejections": null,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": null,
+        "job_link": "https://dev.danasradim.hr/posao/berac-jabuka-25",
+        "user_location": {
+          "id": 1511,
+          "user_id": 9608,
+          "geo_location_id": 515,
+          "contact_person": 489,
+          "location_type": "headquarters",
+          "address": "Školska 3",
+          "zip_code": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2019-03-26 13:52:24",
+          "lat": 42.9255224,
+          "lng": 17.4290074,
+          "custom_name": null,
+          "geo_location": {
+            "id": 515,
+            "title": "Janjina",
+            "place_id": "ChIJjZnC_DSuSxMRtX_OMrH-vIc",
+            "gogole_id": null,
+            "lat": 42.9255224,
+            "lng": 17.4290074,
+            "county_id": 19,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "20246",
+            "county": {
+              "id": 19,
+              "name": "Dubrovačko-neretvanska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": {
+          "id": 9608,
+          "first_name": "Poslodava",
+          "last_name": "Poslodavac",
+          "email": "poslodavac1234@harakirimail.com",
+          "last_login": null,
+          "user_type": 2,
+          "confirmed": "confirmed",
+          "creation_token": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2020-04-22 08:49:06",
+          "student_center": null,
+          "dob": null,
+          "pupil_center": null,
+          "status": "activated",
+          "slug": "tvrtka-d-o-o",
+          "logo": [
+            {
+              "id": 8292,
+              "user_id": 9608,
+              "meta_key": "logo_image",
+              "value": "8292",
+              "created_at": "2020-03-27 13:32:40",
+              "updated_at": "2020-03-27 13:32:40",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "width": 250,
+              "height": 216,
+              "file_type": "png",
+              "storage_type": "s3",
+              "file_size": 24046,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea",
+              "sizes": [
+                {
+                  "name": "thumb",
+                  "width": 180,
+                  "height": 180,
+                  "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+                },
+                {
+                  "name": "default",
+                  "width": 900,
+                  "quality": 90,
+                  "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+                }
+              ]
+            }
+          ],
+          "company_name": [
+            {
+              "id": 11713,
+              "user_id": 9608,
+              "meta_key": "company_name",
+              "value": "Tvrtka d.o.o.",
+              "created_at": "2018-05-23 11:02:17",
+              "updated_at": "2018-08-16 07:06:01"
+            }
+          ]
+        },
+        "medium": null,
+        "job_benefits": [],
+        "job_certificates": [],
+        "job_languages": [],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 1651,
+            "job_id": 10877,
+            "skill_id": 241,
+            "created_at": "2020-04-30 16:35:57",
+            "updated_at": "2020-04-30 16:35:57",
+            "skill": {
+              "id": 241,
+              "name": "Posluživanje hrane - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1652,
+            "job_id": 10877,
+            "skill_id": 240,
+            "created_at": "2020-04-30 16:35:58",
+            "updated_at": "2020-04-30 16:35:58",
+            "skill": {
+              "id": 240,
+              "name": "Posluživanje pića - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 1673,
+            "job_offer_id": 10877,
+            "finances_type": 2,
+            "amount": 22,
+            "created_at": "2020-04-30 16:35:50",
+            "updated_at": "2020-04-30 16:35:50",
+            "amount_formatted": "22,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [
+          {
+            "id": 29124,
+            "job_id": 10877,
+            "employee_category_id": 1,
+            "created_at": "2020-04-30 16:35:43",
+            "updated_at": "2020-04-30 16:35:43",
+            "employee_category": {
+              "id": 1,
+              "employee_type": "all",
+              "order": 10,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Svi"
+            }
+          },
+          {
+            "id": 29125,
+            "job_id": 10877,
+            "employee_category_id": 2,
+            "created_at": "2020-04-30 16:35:43",
+            "updated_at": "2020-04-30 16:35:43",
+            "employee_category": {
+              "id": 2,
+              "employee_type": "pupil",
+              "order": 20,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Učenik"
+            }
+          },
+          {
+            "id": 29126,
+            "job_id": 10877,
+            "employee_category_id": 3,
+            "created_at": "2020-04-30 16:35:43",
+            "updated_at": "2020-04-30 16:35:43",
+            "employee_category": {
+              "id": 3,
+              "employee_type": "student",
+              "order": 30,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Student"
+            }
+          },
+          {
+            "id": 29127,
+            "job_id": 10877,
+            "employee_category_id": 4,
+            "created_at": "2020-04-30 16:35:43",
+            "updated_at": "2020-04-30 16:35:43",
+            "employee_category": {
+              "id": 4,
+              "employee_type": "retired",
+              "order": 40,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Umirovljenik"
+            }
+          },
+          {
+            "id": 29128,
+            "job_id": 10877,
+            "employee_category_id": 5,
+            "created_at": "2020-04-30 16:35:43",
+            "updated_at": "2020-04-30 16:35:43",
+            "employee_category": {
+              "id": 5,
+              "employee_type": "other",
+              "order": 50,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+            }
+          },
+          {
+            "id": 29129,
+            "job_id": 10877,
+            "employee_category_id": 6,
+            "created_at": "2020-04-30 16:35:43",
+            "updated_at": "2020-04-30 16:35:43",
+            "employee_category": {
+              "id": 6,
+              "employee_type": "adult_pupil",
+              "order": 60,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Punoljetni učenik"
+            }
+          }
+        ],
+        "job_offer_categories": [],
+        "job_offer_impression_counter": {
+          "id": 22,
+          "created_at": "2020-07-15 07:08:42",
+          "updated_at": "2020-07-22 16:36:02",
+          "job_id": 10877,
+          "counter": 17
+        },
+        "job_offer_applications_counter": {
+          "id": 10,
+          "created_at": "2020-07-15 09:45:38",
+          "updated_at": "2020-07-15 09:45:38",
+          "job_id": 10877,
+          "counter": 4
+        }
+      },
+      {
+        "id": 10874,
+        "user_id": 9608,
+        "title": "Šetač pasa<sup>(m/ž)</sup>",
+        "subtitle": null,
+        "description": "",
+        "workers_needed": "1",
+        "number_of_hours": null,
+        "job_image": null,
+        "ad_duration": "2020-10-18 23:59:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2020-04-30 09:21:14",
+        "updated_at": "2020-04-30 09:21:34",
+        "employer_location": 1511,
+        "slug": "setac-pasa-1",
+        "notified_rejections": null,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": null,
+        "job_link": "https://dev.danasradim.hr/posao/setac-pasa-1",
+        "user_location": {
+          "id": 1511,
+          "user_id": 9608,
+          "geo_location_id": 515,
+          "contact_person": 489,
+          "location_type": "headquarters",
+          "address": "Školska 3",
+          "zip_code": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2019-03-26 13:52:24",
+          "lat": 42.9255224,
+          "lng": 17.4290074,
+          "custom_name": null,
+          "geo_location": {
+            "id": 515,
+            "title": "Janjina",
+            "place_id": "ChIJjZnC_DSuSxMRtX_OMrH-vIc",
+            "gogole_id": null,
+            "lat": 42.9255224,
+            "lng": 17.4290074,
+            "county_id": 19,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "20246",
+            "county": {
+              "id": 19,
+              "name": "Dubrovačko-neretvanska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": {
+          "id": 9608,
+          "first_name": "Poslodava",
+          "last_name": "Poslodavac",
+          "email": "poslodavac1234@harakirimail.com",
+          "last_login": null,
+          "user_type": 2,
+          "confirmed": "confirmed",
+          "creation_token": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2020-04-22 08:49:06",
+          "student_center": null,
+          "dob": null,
+          "pupil_center": null,
+          "status": "activated",
+          "slug": "tvrtka-d-o-o",
+          "logo": [
+            {
+              "id": 8292,
+              "user_id": 9608,
+              "meta_key": "logo_image",
+              "value": "8292",
+              "created_at": "2020-03-27 13:32:40",
+              "updated_at": "2020-03-27 13:32:40",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "width": 250,
+              "height": 216,
+              "file_type": "png",
+              "storage_type": "s3",
+              "file_size": 24046,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea",
+              "sizes": [
+                {
+                  "name": "thumb",
+                  "width": 180,
+                  "height": 180,
+                  "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+                },
+                {
+                  "name": "default",
+                  "width": 900,
+                  "quality": 90,
+                  "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+                }
+              ]
+            }
+          ],
+          "company_name": [
+            {
+              "id": 11713,
+              "user_id": 9608,
+              "meta_key": "company_name",
+              "value": "Tvrtka d.o.o.",
+              "created_at": "2018-05-23 11:02:17",
+              "updated_at": "2018-08-16 07:06:01"
+            }
+          ]
+        },
+        "medium": null,
+        "job_benefits": [],
+        "job_certificates": [],
+        "job_languages": [],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 1645,
+            "job_id": 10874,
+            "skill_id": 241,
+            "created_at": "2020-04-30 09:21:28",
+            "updated_at": "2020-04-30 09:21:28",
+            "skill": {
+              "id": 241,
+              "name": "Posluživanje hrane - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1646,
+            "job_id": 10874,
+            "skill_id": 240,
+            "created_at": "2020-04-30 09:21:30",
+            "updated_at": "2020-04-30 09:21:30",
+            "skill": {
+              "id": 240,
+              "name": "Posluživanje pića - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 1670,
+            "job_offer_id": 10874,
+            "finances_type": 2,
+            "amount": 32,
+            "created_at": "2020-04-30 09:21:21",
+            "updated_at": "2020-04-30 09:21:21",
+            "amount_formatted": "32,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [
+          {
+            "id": 29106,
+            "job_id": 10874,
+            "employee_category_id": 1,
+            "created_at": "2020-04-30 09:21:14",
+            "updated_at": "2020-04-30 09:21:14",
+            "employee_category": {
+              "id": 1,
+              "employee_type": "all",
+              "order": 10,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Svi"
+            }
+          },
+          {
+            "id": 29107,
+            "job_id": 10874,
+            "employee_category_id": 2,
+            "created_at": "2020-04-30 09:21:14",
+            "updated_at": "2020-04-30 09:21:14",
+            "employee_category": {
+              "id": 2,
+              "employee_type": "pupil",
+              "order": 20,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Učenik"
+            }
+          },
+          {
+            "id": 29108,
+            "job_id": 10874,
+            "employee_category_id": 3,
+            "created_at": "2020-04-30 09:21:14",
+            "updated_at": "2020-04-30 09:21:14",
+            "employee_category": {
+              "id": 3,
+              "employee_type": "student",
+              "order": 30,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Student"
+            }
+          },
+          {
+            "id": 29109,
+            "job_id": 10874,
+            "employee_category_id": 4,
+            "created_at": "2020-04-30 09:21:14",
+            "updated_at": "2020-04-30 09:21:14",
+            "employee_category": {
+              "id": 4,
+              "employee_type": "retired",
+              "order": 40,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Umirovljenik"
+            }
+          },
+          {
+            "id": 29110,
+            "job_id": 10874,
+            "employee_category_id": 5,
+            "created_at": "2020-04-30 09:21:14",
+            "updated_at": "2020-04-30 09:21:14",
+            "employee_category": {
+              "id": 5,
+              "employee_type": "other",
+              "order": 50,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+            }
+          },
+          {
+            "id": 29111,
+            "job_id": 10874,
+            "employee_category_id": 6,
+            "created_at": "2020-04-30 09:21:14",
+            "updated_at": "2020-04-30 09:21:14",
+            "employee_category": {
+              "id": 6,
+              "employee_type": "adult_pupil",
+              "order": 60,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Punoljetni učenik"
+            }
+          }
+        ],
+        "job_offer_categories": [],
+        "job_offer_impression_counter": {
+          "id": 42,
+          "created_at": "2020-07-15 17:32:46",
+          "updated_at": "2020-07-28 12:11:05",
+          "job_id": 10874,
+          "counter": 15
+        },
+        "job_offer_applications_counter": null
+      },
+      {
+        "id": 10870,
+        "user_id": 9608,
+        "title": "Šanker<sup>(m/ž)</sup>",
+        "subtitle": null,
+        "description": "",
+        "workers_needed": "2",
+        "number_of_hours": null,
+        "job_image": null,
+        "ad_duration": "2020-11-19 23:59:00",
+        "working_time_type": 1,
+        "job_start": null,
+        "job_end": null,
+        "status": "published",
+        "created_at": "2020-04-30 08:28:22",
+        "updated_at": "2020-04-30 08:28:50",
+        "employer_location": 1511,
+        "slug": "sanker",
+        "notified_rejections": null,
+        "notified_inactivation": null,
+        "tag": null,
+        "updatable": null,
+        "hidden": 0,
+        "custom_login_link": null,
+        "dispatched_for_saved_searches": null,
+        "job_link": "https://dev.danasradim.hr/posao/sanker",
+        "user_location": {
+          "id": 1511,
+          "user_id": 9608,
+          "geo_location_id": 515,
+          "contact_person": 489,
+          "location_type": "headquarters",
+          "address": "Školska 3",
+          "zip_code": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2019-03-26 13:52:24",
+          "lat": 42.9255224,
+          "lng": 17.4290074,
+          "custom_name": null,
+          "geo_location": {
+            "id": 515,
+            "title": "Janjina",
+            "place_id": "ChIJjZnC_DSuSxMRtX_OMrH-vIc",
+            "gogole_id": null,
+            "lat": 42.9255224,
+            "lng": 17.4290074,
+            "county_id": 19,
+            "created_at": null,
+            "updated_at": null,
+            "country": 1,
+            "post_code": "20246",
+            "county": {
+              "id": 19,
+              "name": "Dubrovačko-neretvanska županija",
+              "country": {
+                "id": 1,
+                "name": "Hrvatska",
+                "code": "hr",
+                "iso": "hr",
+                "zone": "eu",
+                "created_at": null,
+                "updated_at": null
+              }
+            }
+          }
+        },
+        "user": {
+          "id": 9608,
+          "first_name": "Poslodava",
+          "last_name": "Poslodavac",
+          "email": "poslodavac1234@harakirimail.com",
+          "last_login": null,
+          "user_type": 2,
+          "confirmed": "confirmed",
+          "creation_token": null,
+          "created_at": "2018-05-23 11:02:17",
+          "updated_at": "2020-04-22 08:49:06",
+          "student_center": null,
+          "dob": null,
+          "pupil_center": null,
+          "status": "activated",
+          "slug": "tvrtka-d-o-o",
+          "logo": [
+            {
+              "id": 8292,
+              "user_id": 9608,
+              "meta_key": "logo_image",
+              "value": "8292",
+              "created_at": "2020-03-27 13:32:40",
+              "updated_at": "2020-03-27 13:32:40",
+              "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+              "width": 250,
+              "height": 216,
+              "file_type": "png",
+              "storage_type": "s3",
+              "file_size": 24046,
+              "image_name": "a2619cf78c3743c2207cf34f04735cea",
+              "sizes": [
+                {
+                  "name": "thumb",
+                  "width": 180,
+                  "height": 180,
+                  "image_name": "a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735cea180x180.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735cea180x180.png"
+                },
+                {
+                  "name": "default",
+                  "width": 900,
+                  "quality": 90,
+                  "image_name": "a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/a2619cf78c3743c2207cf34f04735ceadefault.png",
+                  "relative_file_path": "images/a2619cf78c3743c2207cf34f04735ceadefault.png"
+                }
+              ]
+            }
+          ],
+          "company_name": [
+            {
+              "id": 11713,
+              "user_id": 9608,
+              "meta_key": "company_name",
+              "value": "Tvrtka d.o.o.",
+              "created_at": "2018-05-23 11:02:17",
+              "updated_at": "2018-08-16 07:06:01"
+            }
+          ]
+        },
+        "medium": null,
+        "job_benefits": [
+          {
+            "id": 23262,
+            "job_id": 10870,
+            "benefit_id": 5,
+            "created_at": "2020-04-30 08:28:22",
+            "updated_at": "2020-04-30 08:28:22",
+            "benefit": {
+              "id": 5,
+              "name": "Bonus zarada",
+              "created_at": null,
+              "updated_at": null,
+              "slug": "bonus-zarada"
+            }
+          }
+        ],
+        "job_certificates": [],
+        "job_languages": [],
+        "job_offers_meta": [],
+        "job_skills": [
+          {
+            "id": 1638,
+            "job_id": 10870,
+            "skill_id": 241,
+            "created_at": "2020-04-30 08:28:33",
+            "updated_at": "2020-04-30 08:28:33",
+            "skill": {
+              "id": 241,
+              "name": "Posluživanje hrane - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          },
+          {
+            "id": 1639,
+            "job_id": 10870,
+            "skill_id": 240,
+            "created_at": "2020-04-30 08:28:35",
+            "updated_at": "2020-04-30 08:28:35",
+            "skill": {
+              "id": 240,
+              "name": "Posluživanje pića - konobar",
+              "parent": 209,
+              "created_at": null,
+              "updated_at": null
+            }
+          }
+        ],
+        "job_working_hours": [],
+        "job_finances": [
+          {
+            "id": 1666,
+            "job_offer_id": 10870,
+            "finances_type": 2,
+            "amount": 30,
+            "created_at": "2020-04-30 08:28:26",
+            "updated_at": "2020-04-30 08:28:26",
+            "amount_formatted": "30,00 kn / sat"
+          }
+        ],
+        "job_employee_categories": [
+          {
+            "id": 29076,
+            "job_id": 10870,
+            "employee_category_id": 1,
+            "created_at": "2020-04-30 08:28:22",
+            "updated_at": "2020-04-30 08:28:22",
+            "employee_category": {
+              "id": 1,
+              "employee_type": "all",
+              "order": 10,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Svi"
+            }
+          },
+          {
+            "id": 29077,
+            "job_id": 10870,
+            "employee_category_id": 2,
+            "created_at": "2020-04-30 08:28:22",
+            "updated_at": "2020-04-30 08:28:22",
+            "employee_category": {
+              "id": 2,
+              "employee_type": "pupil",
+              "order": 20,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Učenik"
+            }
+          },
+          {
+            "id": 29078,
+            "job_id": 10870,
+            "employee_category_id": 3,
+            "created_at": "2020-04-30 08:28:22",
+            "updated_at": "2020-04-30 08:28:22",
+            "employee_category": {
+              "id": 3,
+              "employee_type": "student",
+              "order": 30,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Student"
+            }
+          },
+          {
+            "id": 29079,
+            "job_id": 10870,
+            "employee_category_id": 4,
+            "created_at": "2020-04-30 08:28:22",
+            "updated_at": "2020-04-30 08:28:22",
+            "employee_category": {
+              "id": 4,
+              "employee_type": "retired",
+              "order": 40,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Umirovljenik"
+            }
+          },
+          {
+            "id": 29080,
+            "job_id": 10870,
+            "employee_category_id": 5,
+            "created_at": "2020-04-30 08:28:22",
+            "updated_at": "2020-04-30 08:28:22",
+            "employee_category": {
+              "id": 5,
+              "employee_type": "other",
+              "order": 50,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Ostalo (zaposlena ili nezaposlena osoba, tražitelj novog posla"
+            }
+          },
+          {
+            "id": 29081,
+            "job_id": 10870,
+            "employee_category_id": 6,
+            "created_at": "2020-04-30 08:28:22",
+            "updated_at": "2020-04-30 08:28:22",
+            "employee_category": {
+              "id": 6,
+              "employee_type": "adult_pupil",
+              "order": 60,
+              "created_at": null,
+              "updated_at": null,
+              "employee_type_name": "Punoljetni učenik"
+            }
+          }
+        ],
+        "job_offer_categories": [
+          {
+            "id": 428,
+            "job_id": 10870,
+            "category_id": 8,
+            "created_at": "2020-04-30 08:28:22",
+            "updated_at": "2020-04-30 08:28:22",
+            "user_id": 9608,
+            "job_category": {
+              "id": 8,
+              "name": "Sezonski posao 2020.",
+              "slug": "sezonski-posao-2020",
+              "created_at": "2020-02-04 00:00:00",
+              "updated_at": "2020-02-04 00:00:00"
+            }
+          }
+        ],
+        "job_offer_impression_counter": {
+          "id": 27,
+          "created_at": "2020-07-15 08:55:14",
+          "updated_at": "2020-07-17 10:19:12",
+          "job_id": 10870,
+          "counter": 35
+        },
+        "job_offer_applications_counter": {
+          "id": 12,
+          "created_at": "2020-07-15 10:35:04",
+          "updated_at": "2020-07-15 10:35:04",
+          "job_id": 10870,
+          "counter": 4
+        }
+      }
+    ],
+    "first_page_url": "https://apidev.danasradim.hr/api/v1/job-offers?sortByCounty=14&page=1",
+    "from": 1,
+    "last_page": 4,
+    "last_page_url": "https://apidev.danasradim.hr/api/v1/job-offers?sortByCounty=14&page=4",
+    "next_page_url": "https://apidev.danasradim.hr/api/v1/job-offers?sortByCounty=14&page=2",
+    "path": "https://apidev.danasradim.hr/api/v1/job-offers",
+    "per_page": 20,
+    "prev_page_url": null,
+    "to": 20,
+    "total": 72
+  }
+}

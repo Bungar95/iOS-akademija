@@ -1,0 +1,52 @@
+{
+    "apiVersion": "v1",
+    "context": "success",
+    "httpCode": 200,
+    "method": "GET",
+    "baseUrl": "http://expecting.devtvornica.org",
+    "uri": "api/v1/baby-names/get?country=hr",
+    "queryParameters": {
+        "country": "hr",
+        "order_by": "name",
+        "sort_order": "ASC"
+    },
+    "data": {
+        "favorites": [
+            {
+                "id": 962,
+                "name": "Adam",
+                "country": "hr",
+                "gender": "male",
+                "is_favorite": false
+            },
+            {
+                "id": 930,
+                "name": "Adrian",
+                "country": "hr",
+                "gender": "male",
+                "is_favorite": false
+            },
+            {
+                "id": 974,
+                "name": "BAdriano",
+                "country": "hr",
+                "gender": "male",
+                "is_favorite": true
+            },
+            {
+                "id": 959,
+                "name": "CAlen",
+                "country": "hr",
+                "gender": "male",
+                "is_favorite": false
+            },
+            {
+                "id": 985,
+                "name": "CAna",
+                "country": "hr",
+                "gender": "female",
+                "is_favorite": true
+            },
+        ]
+    }
+}

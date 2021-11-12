@@ -1,0 +1,527 @@
+{
+    "status": "success",
+    "data": {
+        "id": 35763,
+        "first_name": "Josip",
+        "last_name": "Marković",
+        "email": "josip.markovic@factory.hr",
+        "last_login": null,
+        "user_type": 3,
+        "confirmed": "confirmed",
+        "creation_token": null,
+        "created_at": "2020-07-21 14:35:45",
+        "updated_at": "2020-07-30 09:36:03",
+        "student_center": null,
+        "dob": "1998-08-04",
+        "pupil_center": null,
+        "status": null,
+        "slug": "josip-markovic-5",
+        "has_season_tag": false,
+        "user_locations": [
+            {
+                "id": 7756,
+                "user_id": 35763,
+                "geo_location_id": 262,
+                "contact_person": null,
+                "location_type": "current_location",
+                "address": null,
+                "zip_code": null,
+                "created_at": "2020-07-22 12:22:38",
+                "updated_at": "2020-07-22 13:46:31",
+                "lat": null,
+                "lng": null,
+                "custom_name": null,
+                "geo_location": {
+                    "id": 262,
+                    "title": "Bukovlje",
+                    "place_id": "ChIJTdZjhBywXUcRsMUrhlCtAAQ",
+                    "gogole_id": null,
+                    "lat": 45.1843032,
+                    "lng": 18.0671043,
+                    "county_id": 12,
+                    "created_at": null,
+                    "updated_at": null,
+                    "country": 1,
+                    "post_code": "35209",
+                    "county": {
+                        "id": 12,
+                        "name": "Brodsko-posavska županija",
+                        "country": {
+                            "id": 1,
+                            "name": "Hrvatska",
+                            "code": "hr",
+                            "iso": "hr",
+                            "zone": "eu",
+                            "created_at": null,
+                            "updated_at": null
+                        }
+                    }
+                }
+            },
+            {
+                "id": 7757,
+                "user_id": 35763,
+                "geo_location_id": 262,
+                "contact_person": null,
+                "location_type": "residence",
+                "address": null,
+                "zip_code": null,
+                "created_at": "2020-07-22 12:24:15",
+                "updated_at": "2020-07-22 12:24:35",
+                "lat": null,
+                "lng": null,
+                "custom_name": null,
+                "geo_location": {
+                    "id": 262,
+                    "title": "Bukovlje",
+                    "place_id": "ChIJTdZjhBywXUcRsMUrhlCtAAQ",
+                    "gogole_id": null,
+                    "lat": 45.1843032,
+                    "lng": 18.0671043,
+                    "county_id": 12,
+                    "created_at": null,
+                    "updated_at": null,
+                    "country": 1,
+                    "post_code": "35209",
+                    "county": {
+                        "id": 12,
+                        "name": "Brodsko-posavska županija",
+                        "country": {
+                            "id": 1,
+                            "name": "Hrvatska",
+                            "code": "hr",
+                            "iso": "hr",
+                            "zone": "eu",
+                            "created_at": null,
+                            "updated_at": null
+                        }
+                    }
+                }
+            }
+        ],
+        "user_meta": [
+            {
+                "id": 25079,
+                "user_id": 35763,
+                "meta_key": "employee_type",
+                "value": "other",
+                "created_at": "2020-07-21 14:35:46",
+                "updated_at": "2020-07-21 14:35:46"
+            },
+            {
+                "id": 25080,
+                "user_id": 35763,
+                "meta_key": "phone",
+                "value": "0976525302",
+                "created_at": "2020-07-21 14:35:46",
+                "updated_at": "2020-07-21 14:35:46"
+            },
+            {
+                "id": 25118,
+                "user_id": 35763,
+                "meta_key": "profile_image",
+                "value": "8457",
+                "created_at": "2020-07-29 11:12:04",
+                "updated_at": "2020-07-29 14:07:35",
+                "medium": {
+                    "id": 8457,
+                    "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/8e4d3b94d4cea4c346c4a024e44991fbdefault.jpeg",
+                    "width": 900,
+                    "height": 592,
+                    "file_type": "jpeg",
+                    "storage_type": "s3",
+                    "file_size": 507898,
+                    "created_at": "2020-07-29 14:07:35",
+                    "updated_at": "2020-07-29 14:07:35",
+                    "image_name": "8e4d3b94d4cea4c346c4a024e44991fb",
+                    "sizes": [
+                        {
+                            "name": "thumb",
+                            "width": 180,
+                            "height": 180,
+                            "image_name": "8e4d3b94d4cea4c346c4a024e44991fb180x180.jpeg",
+                            "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/8e4d3b94d4cea4c346c4a024e44991fb180x180.jpeg",
+                            "relative_file_path": "images/8e4d3b94d4cea4c346c4a024e44991fb180x180.jpeg"
+                        },
+                        {
+                            "name": "default",
+                            "width": 900,
+                            "quality": 90,
+                            "image_name": "8e4d3b94d4cea4c346c4a024e44991fbdefault.jpeg",
+                            "file_path": "https://s3.eu-central-1.amazonaws.com/danasradim.hr/images/8e4d3b94d4cea4c346c4a024e44991fbdefault.jpeg",
+                            "relative_file_path": "images/8e4d3b94d4cea4c346c4a024e44991fbdefault.jpeg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 25120,
+                "user_id": 35763,
+                "meta_key": "gender",
+                "value": "male",
+                "created_at": "2020-07-30 09:18:48",
+                "updated_at": "2020-07-30 09:18:48"
+            },
+            {
+                "id": 25121,
+                "user_id": 35763,
+                "meta_key": "interest",
+                "value": "Tehničar za elektroniku",
+                "created_at": "2020-07-30 09:24:25",
+                "updated_at": "2020-07-30 09:24:25"
+            },
+            {
+                "id": 25122,
+                "user_id": 35763,
+                "meta_key": "department_acquired_knowledge",
+                "value": "Tehnička Škola Slavonski Brod",
+                "created_at": "2020-07-30 09:29:28",
+                "updated_at": "2020-07-30 09:29:28"
+            },
+            {
+                "id": 25123,
+                "user_id": 35763,
+                "meta_key": "knowledge_level_id",
+                "value": "SSS",
+                "created_at": "2020-07-30 09:29:28",
+                "updated_at": "2020-07-30 09:31:13"
+            },
+            {
+                "id": 25124,
+                "user_id": 35763,
+                "meta_key": "prefered_contact_type",
+                "value": [
+                    "Email",
+                    "Poziv"
+                ],
+                "created_at": "2020-07-30 09:34:51",
+                "updated_at": "2020-07-30 09:36:03"
+            }
+        ],
+        "skills": [
+            {
+                "id": 283,
+                "name": "Poduka glasovira",
+                "parent": 259,
+                "created_at": null,
+                "updated_at": null,
+                "pivot": {
+                    "user_id": 35763,
+                    "skill_id": 283,
+                    "id": 2409,
+                    "created_at": "2020-07-22 09:11:28",
+                    "updated_at": "2020-07-22 09:11:28"
+                }
+            },
+            {
+                "id": 241,
+                "name": "Posluživanje hrane - konobar",
+                "parent": 209,
+                "created_at": null,
+                "updated_at": null,
+                "pivot": {
+                    "user_id": 35763,
+                    "skill_id": 241,
+                    "id": 2410,
+                    "created_at": "2020-07-22 09:55:08",
+                    "updated_at": "2020-07-22 09:55:08"
+                }
+            },
+            {
+                "id": 240,
+                "name": "Posluživanje pića - konobar",
+                "parent": 209,
+                "created_at": null,
+                "updated_at": null,
+                "pivot": {
+                    "user_id": 35763,
+                    "skill_id": 240,
+                    "id": 2411,
+                    "created_at": "2020-07-22 09:55:08",
+                    "updated_at": "2020-07-22 09:55:08"
+                }
+            },
+            {
+                "id": 309,
+                "name": "Trener",
+                "parent": 259,
+                "created_at": null,
+                "updated_at": null,
+                "pivot": {
+                    "user_id": 35763,
+                    "skill_id": 309,
+                    "id": 2412,
+                    "created_at": "2020-07-22 10:02:44",
+                    "updated_at": "2020-07-22 10:02:44"
+                }
+            },
+            {
+                "id": 300,
+                "name": "Vloger",
+                "parent": 259,
+                "created_at": null,
+                "updated_at": null,
+                "pivot": {
+                    "user_id": 35763,
+                    "skill_id": 300,
+                    "id": 2413,
+                    "created_at": "2020-07-22 10:03:36",
+                    "updated_at": "2020-07-22 10:03:36"
+                }
+            },
+            {
+                "id": 306,
+                "name": "Maser",
+                "parent": 259,
+                "created_at": null,
+                "updated_at": null,
+                "pivot": {
+                    "user_id": 35763,
+                    "skill_id": 306,
+                    "id": 2416,
+                    "created_at": "2020-07-22 12:41:56",
+                    "updated_at": "2020-07-22 12:41:56"
+                }
+            },
+            {
+                "id": 87,
+                "name": "Programiranje",
+                "parent": 1,
+                "created_at": null,
+                "updated_at": null,
+                "pivot": {
+                    "user_id": 35763,
+                    "skill_id": 87,
+                    "id": 2417,
+                    "created_at": "2020-07-22 12:41:56",
+                    "updated_at": "2020-07-22 12:41:56"
+                }
+            },
+            {
+                "id": 181,
+                "name": "Šetanje pasa",
+                "parent": 133,
+                "created_at": null,
+                "updated_at": null,
+                "pivot": {
+                    "user_id": 35763,
+                    "skill_id": 181,
+                    "id": 2418,
+                    "created_at": "2020-07-22 12:41:56",
+                    "updated_at": "2020-07-22 12:41:56"
+                }
+            },
+            {
+                "id": 305,
+                "name": "Šminker",
+                "parent": 259,
+                "created_at": null,
+                "updated_at": null,
+                "pivot": {
+                    "user_id": 35763,
+                    "skill_id": 305,
+                    "id": 2419,
+                    "created_at": "2020-07-22 12:41:56",
+                    "updated_at": "2020-07-22 12:41:56"
+                }
+            },
+            {
+                "id": 56,
+                "name": "Less/sass/scss",
+                "parent": 1,
+                "created_at": null,
+                "updated_at": null,
+                "pivot": {
+                    "user_id": 35763,
+                    "skill_id": 56,
+                    "id": 2420,
+                    "created_at": "2020-07-22 12:41:56",
+                    "updated_at": "2020-07-22 12:41:56"
+                }
+            },
+            {
+                "id": 184,
+                "name": "Šminkanje",
+                "parent": 133,
+                "created_at": null,
+                "updated_at": null,
+                "pivot": {
+                    "user_id": 35763,
+                    "skill_id": 184,
+                    "id": 2421,
+                    "created_at": "2020-07-22 12:41:56",
+                    "updated_at": "2020-07-22 12:41:56"
+                }
+            },
+            {
+                "id": 127,
+                "name": "Wordpress",
+                "parent": 1,
+                "created_at": null,
+                "updated_at": null,
+                "pivot": {
+                    "user_id": 35763,
+                    "skill_id": 127,
+                    "id": 2422,
+                    "created_at": "2020-07-22 12:41:56",
+                    "updated_at": "2020-07-22 12:41:56"
+                }
+            },
+            {
+                "id": 50,
+                "name": "Javascript",
+                "parent": 1,
+                "created_at": null,
+                "updated_at": null,
+                "pivot": {
+                    "user_id": 35763,
+                    "skill_id": 50,
+                    "id": 2423,
+                    "created_at": "2020-07-22 12:41:56",
+                    "updated_at": "2020-07-22 12:41:56"
+                }
+            },
+            {
+                "id": 299,
+                "name": "Unos podataka",
+                "parent": 259,
+                "created_at": null,
+                "updated_at": null,
+                "pivot": {
+                    "user_id": 35763,
+                    "skill_id": 299,
+                    "id": 2424,
+                    "created_at": "2020-07-22 12:41:56",
+                    "updated_at": "2020-07-22 12:41:56"
+                }
+            },
+            {
+                "id": 276,
+                "name": "Klavijaturist",
+                "parent": 259,
+                "created_at": null,
+                "updated_at": null,
+                "pivot": {
+                    "user_id": 35763,
+                    "skill_id": 276,
+                    "id": 2425,
+                    "created_at": "2020-07-22 13:46:18",
+                    "updated_at": "2020-07-22 13:46:18"
+                }
+            },
+            {
+                "id": 270,
+                "name": "Instrukcije iz matematike za SŠ",
+                "parent": 259,
+                "created_at": null,
+                "updated_at": null,
+                "pivot": {
+                    "user_id": 35763,
+                    "skill_id": 270,
+                    "id": 2426,
+                    "created_at": "2020-07-22 13:46:18",
+                    "updated_at": "2020-07-22 13:46:18"
+                }
+            }
+        ],
+        "employer_statements": [],
+        "user_consents": [
+            {
+                "id": 23280,
+                "user_id": 35763,
+                "consent_id": 1,
+                "status": "confirmed",
+                "created_at": "2020-07-21 14:35:46",
+                "updated_at": "2020-07-21 14:35:46",
+                "consent": {
+                    "id": 1,
+                    "title": "Privolu za objavu i korištenje osobnih podataka",
+                    "consent": "Prihvaćam da se moji osobni podaci obrađuju, objavljuju i koriste u svrhu prijava na poslove objavljene na www.danasradim.hr te komunikacije platforme od strane društva danasradim d.o.o. Radnička cesta 80, 10 000 Zagreb.<br> Privolu dajem dobrovoljno a podatke mogu u bilo kojem trenutku mijenjati, ispravljati, brisati ili ih u potpunosti zaboraviti. Moji podaci će biti u bazi podataka www.danasradim.hr dok ih osobno ne izbrišem a maksimalno pet godina a privolu mogu u svakom trenutku povući odznačavanjem polja.<br>Privola uključuje i uvid u osobne podatke poslodavcima koji se oglašavaju na www.danasradim.hr u cilju zaključivanja posla.",
+                    "unique_id": "privilege_for_publishing_and_using_personal_data",
+                    "created_at": null,
+                    "updated_at": null
+                }
+            },
+            {
+                "id": 23281,
+                "user_id": 35763,
+                "consent_id": 3,
+                "status": "confirmed",
+                "created_at": "2020-07-21 14:35:46",
+                "updated_at": "2020-07-21 14:35:46",
+                "consent": {
+                    "id": 3,
+                    "title": "Nova poruka",
+                    "consent": "Nova poruka",
+                    "unique_id": "privilege_new_message_email",
+                    "created_at": null,
+                    "updated_at": null
+                }
+            },
+            {
+                "id": 23282,
+                "user_id": 35763,
+                "consent_id": 6,
+                "status": "confirmed",
+                "created_at": "2020-07-21 14:35:46",
+                "updated_at": "2020-07-21 14:35:46",
+                "consent": {
+                    "id": 6,
+                    "title": "Obavijesti o ponudama za poslove",
+                    "consent": "Obavijesti o ponudama za poslove",
+                    "unique_id": "privilege_job_offer_notification",
+                    "created_at": null,
+                    "updated_at": null
+                }
+            },
+            {
+                "id": 23283,
+                "user_id": 35763,
+                "consent_id": 7,
+                "status": "confirmed",
+                "created_at": "2020-07-21 14:35:46",
+                "updated_at": "2020-07-21 14:35:46",
+                "consent": {
+                    "id": 7,
+                    "title": "Nova poruka platforme",
+                    "consent": "Nova poruka platforme",
+                    "unique_id": "new_message_platform",
+                    "created_at": null,
+                    "updated_at": null
+                }
+            },
+            {
+                "id": 23284,
+                "user_id": 35763,
+                "consent_id": 2,
+                "status": "confirmed",
+                "created_at": "2020-07-21 14:35:46",
+                "updated_at": "2020-07-21 14:35:46",
+                "consent": {
+                    "id": 2,
+                    "title": "Newsletter",
+                    "consent": "Newsletter",
+                    "unique_id": "privilege_newsletter",
+                    "created_at": null,
+                    "updated_at": null
+                }
+            },
+            {
+                "id": 23285,
+                "user_id": 35763,
+                "consent_id": 5,
+                "status": "confirmed",
+                "created_at": "2020-07-21 14:35:46",
+                "updated_at": "2020-07-21 14:35:46",
+                "consent": {
+                    "id": 5,
+                    "title": "Obavijesti platforme",
+                    "consent": "Obavijesti platforme",
+                    "unique_id": "privilege_platform_notifications",
+                    "created_at": null,
+                    "updated_at": null
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "apiVersion": "v1",
+    "context": "success",
+    "httpCode": 200,
+    "method": "GET",
+    "baseUrl": "http://expecting.devtvornica.org",
+    "uri": "api/v1/articles/get?category=child",
+    "queryParameters": {
+        "category": "child",
+        "order_by": "week",
+        "sort_order": "ASC"
+    },
+    "data": [
+        {
+            "id": 1,
+            "title": "Lorem Ipsum Post",
+            "excerpt": "This is the excerpt for the Lorem Ipsum Post",
+            "image": "http://expecting.devtvornica.org/storage/posts/post1.jpg",
+            "category_id": 1,
+            "group": {
+                "id": 1,
+                "week": 1
+            }
+        },
+        {
+            "id": 2,
+            "title": "Yarr Post",
+            "excerpt": "Reef sails nipperkin bring a spring upon her cable coffer jury mast spike marooned Pieces of Eight poop deck pillage. Clipper driver coxswain galleon hempen halter come about pressgang gangplank boatswain swing the lead. Nipperkin yard skysail swab lanyard Blimey bilge water ho quarter Buccaneer.",
+            "image": "http://expecting.devtvornica.org/storage/posts/post4.jpg",
+            "category_id": 1,
+            "group": {
+                "id": 1,
+                "week": 1
+            }
+        },
+        {
+            "id": 3,
+            "title": "Yarr Post",
+            "excerpt": "Reef sails nipperkin bring a spring upon her cable coffer jury mast spike marooned Pieces of Eight poop deck pillage. Clipper driver coxswain galleon hempen halter come about pressgang gangplank boatswain swing the lead. Nipperkin yard skysail swab lanyard Blimey bilge water ho quarter Buccaneer.",
+            "image": "http://expecting.devtvornica.org/storage/posts/post4.jpg",
+            "category_id": 1,
+            "group": {
+                "id": 1,
+                "week": 1
+            }
+        },
+        {
+            "id": 4,
+            "title": "Yarr Post",
+            "excerpt": "Reef sails nipperkin bring a spring upon her cable coffer jury mast spike marooned Pieces of Eight poop deck pillage. Clipper driver coxswain galleon hempen halter come about pressgang gangplank boatswain swing the lead. Nipperkin yard skysail swab lanyard Blimey bilge water ho quarter Buccaneer.",
+            "image": "http://expecting.devtvornica.org/storage/posts/post4.jpg",
+            "category_id": 1,
+            "group": {
+                "id": 1,
+                "week": 1
+            }
+        },
+        {
+            "id": 5,
+            "title": "Yarr Post",
+            "excerpt": "Reef sails nipperkin bring a spring upon her cable coffer jury mast spike marooned Pieces of Eight poop deck pillage. Clipper driver coxswain galleon hempen halter come about pressgang gangplank boatswain swing the lead. Nipperkin yard skysail swab lanyard Blimey bilge water ho quarter Buccaneer.",
+            "image": "http://expecting.devtvornica.org/storage/posts/post4.jpg",
+            "category_id": 1,
+            "group": {
+                "id": 1,
+                "week": 1
+            }
+        },
+        {
+            "id": 6,
+            "title": "Lorem Ipsum Post",
+            "excerpt": "This is the excerpt for the Lorem Ipsum Post",
+            "image": "http://expecting.devtvornica.org/storage/posts/post1.jpg",
+            "category_id": 1,
+            "group": {
+                "id": 2,
+                "week": 2
+            }
+        },
+        {
+            "id": 7,
+            "title": "Yarr Post",
+            "excerpt": "Reef sails nipperkin bring a spring upon her cable coffer jury mast spike marooned Pieces of Eight poop deck pillage. Clipper driver coxswain galleon hempen halter come about pressgang gangplank boatswain swing the lead. Nipperkin yard skysail swab lanyard Blimey bilge water ho quarter Buccaneer.",
+            "image": "http://expecting.devtvornica.org/storage/posts/post4.jpg",
+            "category_id": 1,
+            "group": {
+                "id": 2,
+                "week": 2
+            }
+        },
+        {
+            "id": 8,
+            "title": "Yarr Post",
+            "excerpt": "Reef sails nipperkin bring a spring upon her cable coffer jury mast spike marooned Pieces of Eight poop deck pillage. Clipper driver coxswain galleon hempen halter come about pressgang gangplank boatswain swing the lead. Nipperkin yard skysail swab lanyard Blimey bilge water ho quarter Buccaneer.",
+            "image": "http://expecting.devtvornica.org/storage/posts/post4.jpg",
+            "category_id": 1,
+            "group": {
+                "id": 2,
+                "week": 2
+            }
+        },
+        {
+            "id": 9,
+            "title": "Yarr Post",
+            "excerpt": "Reef sails nipperkin bring a spring upon her cable coffer jury mast spike marooned Pieces of Eight poop deck pillage. Clipper driver coxswain galleon hempen halter come about pressgang gangplank boatswain swing the lead. Nipperkin yard skysail swab lanyard Blimey bilge water ho quarter Buccaneer.",
+            "image": "http://expecting.devtvornica.org/storage/posts/post4.jpg",
+            "category_id": 1,
+            "group": {
+                "id": 2,
+                "week": 2
+            }
+        },
+        {
+            "id": 10,
+            "title": "Yarr Post",
+            "excerpt": "Reef sails nipperkin bring a spring upon her cable coffer jury mast spike marooned Pieces of Eight poop deck pillage. Clipper driver coxswain galleon hempen halter come about pressgang gangplank boatswain swing the lead. Nipperkin yard skysail swab lanyard Blimey bilge water ho quarter Buccaneer.",
+            "image": "http://expecting.devtvornica.org/storage/posts/post4.jpg",
+            "category_id": 1,
+            "group": {
+                "id": 2,
+                "week": 2
+            }
+        },
+        {
+            "id": 11,
+            "title": "Latest Post",
+            "excerpt": "This is the excerpt for the latest post",
+            "image": "http://expecting.devtvornica.org/storage/posts/post3.jpg",
+            "category_id": 1,
+            "group": {
+                "id": 3,
+                "week": 3
+            }
+        },
+        {
+            "id": 12,
+            "title": "Latest Post",
+            "excerpt": "This is the excerpt for the latest post",
+            "image": "http://expecting.devtvornica.org/storage/posts/post3.jpg",
+            "category_id": 1,
+            "group": {
+                "id": 3,
+                "week": 3
+            }
+        },
+        {
+            "id": 13,
+            "title": "Latest Post",
+            "excerpt": "This is the excerpt for the latest post",
+            "image": "http://expecting.devtvornica.org/storage/posts/post3.jpg",
+            "category_id": 1,
+            "group": {
+                "id": 3,
+                "week": 3
+            }
+        },
+        {
+            "id": 14,
+            "title": "Latest Post",
+            "excerpt": "This is the excerpt for the latest post",
+            "image": "http://expecting.devtvornica.org/storage/posts/post3.jpg",
+            "category_id": 1,
+            "group": {
+                "id": 3,
+                "week": 3
+            }
+        }
+    ]
+}

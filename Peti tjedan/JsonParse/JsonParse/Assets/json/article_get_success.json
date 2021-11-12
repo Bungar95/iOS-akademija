@@ -1,0 +1,104 @@
+{
+    "apiVersion": "v1",
+    "context": "success",
+    "httpCode": 200,
+    "method": "GET",
+    "baseUrl": "http://expecting.devtvornica.org",
+    "uri": "api/v1/articles/4/show",
+    "queryParameters": [],
+    "data": {
+        "id": 4,
+        "title": "Yarr Post",
+        "excerpt": "Reef sails nipperkin bring a spring upon her cable coffer jury mast spike marooned Pieces of Eight poop deck pillage. Clipper driver coxswain galleon hempen halter come about pressgang gangplank boatswain swing the lead. Nipperkin yard skysail swab lanyard Blimey bilge water ho quarter Buccaneer.",
+        "image": "http://expecting.devtvornica.org/storage/posts/post4.jpg",
+        "category_id": 1,
+        "group": {
+            "id": 1,
+            "week": 1
+        },
+        "body": "<p>Swab deadlights Buccaneer fire ship square-rigged dance the hempen jig weigh anchor cackle fruit grog furl. Crack Jennys tea cup chase guns pressgang hearties spirits hogshead Gold Road six pounders fathom measured fer yer chains. Main sheet provost come about trysail barkadeer crimp scuttle mizzenmast brig plunder.</p>\n<p>Mizzen league keelhaul galleon tender cog chase Barbary Coast doubloon crack Jennys tea cup. Blow the man down lugsail fire ship pinnace cackle fruit line warp Admiral of the Black strike colors doubloon. Tackle Jack Ketch come about crimp rum draft scuppers run a shot across the bow haul wind maroon.</p>\n<p><img title=\"Sea\" src=\"http://expecting.devtvornica.org/storage/posts/November2018/94dd573e4b4de604ea7f33548da99fd6.jpg\" alt=\"Test image\" width=\"1600\" height=\"1200\" /></p>\n<p>Interloper heave down list driver pressgang holystone scuppers tackle scallywag bilged on her anchor. Jack Tar interloper draught grapple mizzenmast hulk knave cable transom hogshead. Gaff pillage to go on account grog aft chase guns piracy yardarm knave clap of thunder.</p>\n<h2>Subtitle</h2>\n<p>Subtitle text...</p>",
+        "json_body": {
+            "tag": "html",
+            "children": [
+                {
+                    "tag": "body",
+                    "children": [
+                        {
+                            "tag": "p",
+                            "html": "Swab deadlights Buccaneer fire ship square-rigged dance the hempen jig weigh anchor cackle fruit grog furl. Crack Jennys tea cup chase guns pressgang hearties spirits hogshead Gold Road six pounders fathom measured fer yer chains. Main sheet provost come about trysail barkadeer crimp scuttle mizzenmast brig plunder."
+                        },
+                        {
+                            "tag": "p",
+                            "html": "Mizzen league keelhaul galleon tender cog chase Barbary Coast doubloon crack Jennys tea cup. Blow the man down lugsail fire ship pinnace cackle fruit line warp Admiral of the Black strike colors doubloon. Tackle Jack Ketch come about crimp rum draft scuppers run a shot across the bow haul wind maroon."
+                        },
+                        {
+                            "tag": "p",
+                            "children": [
+                                {
+                                    "tag": "img",
+                                    "title": "Sea",
+                                    "src": "http:http://expecting.devtvornica.org/storage/posts/November2018/94dd573e4b4de604ea7f33548da99fd6.jpg",
+                                    "alt": "Test image",
+                                    "width": "1600",
+                                    "height": "1200"
+                                }
+                            ]
+                        },
+                        {
+                            "tag": "p",
+                            "html": "Interloper heave down list driver pressgang holystone scuppers tackle scallywag bilged on her anchor. Jack Tar interloper draught grapple mizzenmast hulk knave cable transom hogshead. Gaff pillage to go on account grog aft chase guns piracy yardarm knave clap of thunder."
+                        },
+                        {
+                            "tag": "h2",
+                            "html": "Subtitle"
+                        },
+                        {
+                            "tag": "p",
+                            "html": "Subtitle text..."
+                        }
+                    ],
+                    "html": "\n"
+                }
+            ]
+        },
+        "gallery": [
+            "http://expecting.devtvornica.org/storage/post/4/gallery/1542789284-taking-photos-of-the-lake_1088-88.jpg.jpg",
+            "http://expecting.devtvornica.org/storage/post/4/gallery/1542789294-soap-bubble-1959327_960_720.jpg.jpg"
+        ],
+        "related_posts": [
+            {
+                "id": 5,
+                "title": "Test Title bla ",
+                "excerpt": "This is excerpt ",
+                "image": "http://expecting.devtvornica.org/storage/posts/November2018/1onqYYyvwZHi8RMO8mSA.jpg",
+                "category_id": 3,
+                "group": {
+                    "id": 1,
+                    "week": 1
+                }
+            },
+            {
+                "id": 1,
+                "title": "Lorem Ipsum Post",
+                "excerpt": "This is the excerpt for the Lorem Ipsum Post",
+                "image": "http://expecting.devtvornica.org/storage/posts/post1.jpg",
+                "category_id": 1,
+                "group": {
+                    "id": 1,
+                    "week": 1
+                }
+            },
+            {
+                "id": 2,
+                "title": "My Sample Post",
+                "excerpt": "This is the excerpt for the sample Post",
+                "image": "http://expecting.devtvornica.org/storage/posts/post2.jpg",
+                "category_id": 2,
+                "group": {
+                    "id": 2,
+                    "week": 2
+                }
+            }
+        ]
+    }
+}

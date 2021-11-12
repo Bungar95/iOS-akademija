@@ -1,0 +1,43 @@
+{
+    "http_code": 200,
+    "message": "Success",
+    "method": "GET",
+    "base_url": "http://agrodox.devtvornica.org",
+    "uri": "api/v1/products/1",
+    "query_parameters": [ ],
+    "data": {
+        "id": 1,
+        "name": "Testni proizvod",
+        "short_description": "<p>bbbb</p>",
+        "full_description": "<p>bbbb</p>",
+        "group": {
+            "id": 3,
+            "name": "Folijarni",
+            "slug": "Foliar"
+        },
+        "package_unit": "l",
+        "is_organic": false,
+        "thumbnail": {
+            "filename": "lemon.jpeg",
+            "url": "http://agrodox.devtvornica.org/attachments/2wyp26vbisn016ez760umruue/lemon.jpeg",
+            "uuid": "2wyp26vbisn016ez760umruue"
+        },
+        "image": {
+            "filename": "lemon.jpeg",
+            "url": "http://agrodox.devtvornica.org/attachments/3fyh15cjr5smiy6panpmobmb8/lemon.jpeg",
+            "uuid": "3fyh15cjr5smiy6panpmobmb8"
+        },
+        "leaflet": {
+            "filename": "sample.pdf",
+            "url": "http://agrodox.devtvornica.org/attachments/blfjbsduthutg2dyd34x3c2hg/sample.pdf",
+            "uuid": "blfjbsduthutg2dyd34x3c2hg"
+        },
+        "updated_at": {
+            "display": " 9 October 2019",
+            "date": "2019-10-09",
+            "datetime": "2019-10-09 13:16:23",
+            "timestamp": 1570626983,
+            "datepicker_format": "10/09/2019 13:16 pm"
+        }
+    }
+}

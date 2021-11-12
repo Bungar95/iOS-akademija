@@ -1,0 +1,128 @@
+{
+  "status": "success",
+  "data": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": 7,
+        "name": "Bjelovarsko-bilogorska županija",
+        "country": 1
+      },
+      {
+        "id": 12,
+        "name": "Brodsko-posavska županija",
+        "country": 1
+      },
+      {
+        "id": 19,
+        "name": "Dubrovačko-neretvanska županija",
+        "country": 1
+      },
+      {
+        "id": 18,
+        "name": "Istarska županija",
+        "country": 1
+      },
+      {
+        "id": 4,
+        "name": "Karlovačka županija",
+        "country": 1
+      },
+      {
+        "id": 6,
+        "name": "Koprivničko-križevačka županija",
+        "country": 1
+      },
+      {
+        "id": 2,
+        "name": "Krapinsko-zagorska županija",
+        "country": 1
+      },
+      {
+        "id": 9,
+        "name": "Ličko-senjska županija",
+        "country": 1
+      },
+      {
+        "id": 20,
+        "name": "Međimurska županija",
+        "country": 1
+      },
+      {
+        "id": 14,
+        "name": "Osječko-baranjska županija",
+        "country": 1
+      },
+      {
+        "id": 11,
+        "name": "Požeško-slavonska županija",
+        "country": 1
+      },
+      {
+        "id": 8,
+        "name": "Primorsko-goranska županija",
+        "country": 1
+      },
+      {
+        "id": 3,
+        "name": "Sisačko-moslavačka županija",
+        "country": 1
+      },
+      {
+        "id": 17,
+        "name": "Splitsko-dalmatinska županija",
+        "country": 1
+      },
+      {
+        "id": 15,
+        "name": "Šibensko-kninska županija",
+        "country": 1
+      },
+      {
+        "id": 5,
+        "name": "Varaždinska županija",
+        "country": 1
+      },
+      {
+        "id": 10,
+        "name": "Virovitičko-podravska županija",
+        "country": 1
+      },
+      {
+        "id": 22,
+        "name": "Više lokacija",
+        "country": 1
+      },
+      {
+        "id": 16,
+        "name": "Vukovarsko-srijemska županija",
+        "country": 1
+      },
+      {
+        "id": 13,
+        "name": "Zadarska županija",
+        "country": 1
+      },
+      {
+        "id": 21,
+        "name": "Zagreb",
+        "country": 1
+      },
+      {
+        "id": 1,
+        "name": "Zagrebačka županija",
+        "country": 1
+      }
+    ],
+    "first_page_url": "https://api.danasradim.hr/api/v1/counties?limit=1000&sort=ASC&sortBy=counties.name&page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "https://api.danasradim.hr/api/v1/counties?limit=1000&sort=ASC&sortBy=counties.name&page=1",
+    "next_page_url": null,
+    "path": "https://api.danasradim.hr/api/v1/counties",
+    "per_page": "1000",
+    "prev_page_url": null,
+    "to": 22,
+    "total": 22
+  }
+}

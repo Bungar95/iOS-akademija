@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1C491D1E-CC3C-47B7-AEF2-73AFD6A90CF4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86BB589B-613B-4C51-9BAE-6D1AE7C02AAA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TableViewJSON/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "86BB589B-613B-4C51-9BAE-6D1AE7C02AAA - 5d79645d30e1681a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewJSON.TableViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TableViewJSON.TableViewController"
+                  moduleName = "TableViewJSON"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/borna_ungar/Desktop/ios-akademija/Sesti%20tjedan/TableViewJSON/TableViewJSON/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "86BB589B-613B-4C51-9BAE-6D1AE7C02AAA - af51c47d0f9815df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewJSON.TableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TableViewJSON.TableViewController"
+                  moduleName = "TableViewJSON"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/borna_ungar/Desktop/ios-akademija/Sesti%20tjedan/TableViewJSON/TableViewJSON/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  uuid = "86BB589B-613B-4C51-9BAE-6D1AE7C02AAA - ea0083411611eb04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewJSON.TableViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TableViewJSON.TableViewController&gt;"
+                  moduleName = "TableViewJSON"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/borna_ungar/Desktop/ios-akademija/Sesti%20tjedan/TableViewJSON/TableViewJSON/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "86BB589B-613B-4C51-9BAE-6D1AE7C02AAA - 64504ff163196685"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewJSON.TableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TableViewJSON.TableViewController&gt;"
+                  moduleName = "TableViewJSON"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/borna_ungar/Desktop/ios-akademija/Sesti%20tjedan/TableViewJSON/TableViewJSON/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "86BB589B-613B-4C51-9BAE-6D1AE7C02AAA - e7ae3bc8b3f55c61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewJSON.TableViewController.__deallocating_deinit"
+                  moduleName = "TableViewJSON"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/borna_ungar/Desktop/ios-akademija/Sesti%20tjedan/TableViewJSON/TableViewJSON/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D517A792-2320-4A2D-8512-539CE17726C9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TableViewJSON/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "TableViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

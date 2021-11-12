@@ -1,0 +1,473 @@
+{
+    "apiVersion": "v1",
+    "context": "success",
+    "httpCode": 200,
+    "method": "GET",
+    "baseUrl": "http://expecting-test.devtvornica.org",
+    "uri": "api/v2/health-stats/get",
+    "queryParameters": [],
+    "data": [
+        {
+            "systolic_bp": 90,
+            "diastolic_bp": 60,
+            "diabetes": 2,
+            "weight": 58,
+            "date": "2020-07-01"
+        },
+        {
+            "weight": 57.2,
+            "date": "2020-07-02",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 56.8,
+            "date": "2020-07-03",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 56.4,
+            "date": "2020-07-04",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "systolic_bp": 100,
+            "diastolic_bp": 70,
+            "diabetes": 3,
+            "weight": 56,
+            "date": "2020-07-05"
+        },
+        {
+            "weight": 56.22,
+            "date": "2020-07-06",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 56.32,
+            "date": "2020-07-07",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 56.43,
+            "date": "2020-07-08",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 56.54,
+            "date": "2020-07-09",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 56.65,
+            "date": "2020-07-10",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 56.76,
+            "date": "2020-07-11",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 56.86,
+            "date": "2020-07-12",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 56.97,
+            "date": "2020-07-13",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 57.08,
+            "date": "2020-07-14",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 57.19,
+            "date": "2020-07-15",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 57.3,
+            "date": "2020-07-16",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 57.41,
+            "date": "2020-07-17",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 57.51,
+            "date": "2020-07-18",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 57.62,
+            "date": "2020-07-19",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 57.73,
+            "date": "2020-07-20",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 57.84,
+            "date": "2020-07-21",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 57.95,
+            "date": "2020-07-22",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 58.05,
+            "date": "2020-07-23",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 58.16,
+            "date": "2020-07-24",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 58.27,
+            "date": "2020-07-25",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 58.38,
+            "date": "2020-07-26",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 58.49,
+            "date": "2020-07-27",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 58.59,
+            "date": "2020-07-28",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 58.7,
+            "date": "2020-07-29",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 58.81,
+            "date": "2020-07-30",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 58.92,
+            "date": "2020-07-31",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 59.03,
+            "date": "2020-08-01",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 59.14,
+            "date": "2020-08-02",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 59.24,
+            "date": "2020-08-03",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 59.35,
+            "date": "2020-08-04",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 59.46,
+            "date": "2020-08-05",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 59.57,
+            "date": "2020-08-06",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 59.68,
+            "date": "2020-08-07",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 59.78,
+            "date": "2020-08-08",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 59.89,
+            "date": "2020-08-09",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "systolic_bp": 120,
+            "diastolic_bp": 70,
+            "diabetes": 2,
+            "weight": 60,
+            "date": "2020-08-10"
+        },
+        {
+            "weight": 60.17,
+            "date": "2020-08-11",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 60.26,
+            "date": "2020-08-12",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 60.35,
+            "date": "2020-08-13",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 60.43,
+            "date": "2020-08-14",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 60.52,
+            "date": "2020-08-15",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 60.61,
+            "date": "2020-08-16",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 60.7,
+            "date": "2020-08-17",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 60.78,
+            "date": "2020-08-18",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 60.87,
+            "date": "2020-08-19",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 60.96,
+            "date": "2020-08-20",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 61.04,
+            "date": "2020-08-21",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 61.13,
+            "date": "2020-08-22",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 61.22,
+            "date": "2020-08-23",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 61.3,
+            "date": "2020-08-24",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 61.39,
+            "date": "2020-08-25",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 61.48,
+            "date": "2020-08-26",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 61.57,
+            "date": "2020-08-27",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 61.65,
+            "date": "2020-08-28",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 61.74,
+            "date": "2020-08-29",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 61.83,
+            "date": "2020-08-30",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "weight": 61.91,
+            "date": "2020-08-31",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "systolic_bp": 115,
+            "diastolic_bp": 60,
+            "diabetes": 1,
+            "weight": 62,
+            "date": "2020-09-01"
+        },
+        {
+            "weight": 67.33,
+            "date": "2020-09-02",
+            "diabetes": null,
+            "systolic_bp": null,
+            "diastolic_bp": null
+        },
+        {
+            "systolic_bp": 140,
+            "diastolic_bp": 98,
+            "diabetes": 5,
+            "weight": 70,
+            "date": "2020-09-03"
+        },
+        {
+            "systolic_bp": 82,
+            "diastolic_bp": 56,
+            "diabetes": 0,
+            "weight": 71,
+            "date": "2020-09-04"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "http_code": 200,
+    "message": "Success",
+    "method": "GET",
+    "base_url": "http://agrodox.devtvornica.org",
+    "uri": "api/v1/activities",
+    "query_parameters": [],
+    "errors": null,
+    "data": [
+        {
+            "id": 81,
+            "type": {
+                "id": 16,
+                "name": "Prodaja",
+                "slug": "Sale",
+                "type": "profit",
+                "show_quantity_and_unit": true
+            },
+            "crop": {
+                "id": 3,
+                "name": "Pšenicapšenicapšenicapšenicapšenica",
+                "slug": "Wheatwheatwheatwheatwheat"
+            },
+            "field": {
+                "id": 149,
+                "name": "Polje 2",
+                "surface": "3123.00",
+                "unit": "ha",
+                "ar_code": "Dadsd",
+                "surface_in_m2": "31230000.00"
+            },
+            "value": "50000.0000",
+            "currency": "HRK",
+            "quantity": "500.00",
+            "unit": "kg",
+            "date": {
+                "display": "14 November 2019",
+                "date": "2019-11-14",
+                "datetime": "2019-11-14 00:00:00",
+                "timestamp": 1573689600,
+                "datepicker_format": "11/14/2019 00:00 am"
+            }
+        },
+        {
+            "id": 84,
+            "type": {
+                "id": 16,
+                "name": "Prodaja",
+                "slug": "Sale",
+                "type": "profit",
+                "show_quantity_and_unit": true
+            },
+            "crop": {
+                "id": 3,
+                "name": "Pšenicapšenicapšenicapšenicapšenica",
+                "slug": "Wheatwheatwheatwheatwheat"
+            },
+            "field": {
+                "id": 136,
+                "name": "Kupreško polje",
+                "surface": "55.00",
+                "unit": "km²",
+                "ar_code": "199",
+                "surface_in_m2": "55000000.00"
+            },
+            "value": "50000.0000",
+            "currency": "HRK",
+            "quantity": "500.00",
+            "unit": "kg",
+            "date": {
+                "display": "14 November 2019",
+                "date": "2019-11-14",
+                "datetime": "2019-11-14 00:00:00",
+                "timestamp": 1573689600,
+                "datepicker_format": "11/14/2019 00:00 am"
+            }
+        },
+        {
+            "id": 107,
+            "type": {
+                "id": 16,
+                "name": "Prodaja",
+                "slug": "Sale",
+                "type": "profit",
+                "show_quantity_and_unit": true
+            },
+            "crop": {
+                "id": 3,
+                "name": "Pšenicapšenicapšenicapšenicapšenica",
+                "slug": "Wheatwheatwheatwheatwheat"
+            },
+            "field": {
+                "id": 149,
+                "name": "Polje 2",
+                "surface": "3123.00",
+                "unit": "ha",
+                "ar_code": "Dadsd",
+                "surface_in_m2": "31230000.00"
+            },
+            "value": "50000.0000",
+            "currency": "HRK",
+            "quantity": "500.00",
+            "unit": "kg",
+            "date": {
+                "display": "14 November 2019",
+                "date": "2019-11-14",
+                "datetime": "2019-11-14 00:00:00",
+                "timestamp": 1573689600,
+                "datepicker_format": "11/14/2019 00:00 am"
+            }
+        },
+        {
+            "id": 111,
+            "type": {
+                "id": 16,
+                "name": "Prodaja",
+                "slug": "Sale",
+                "type": "profit",
+                "show_quantity_and_unit": true
+            },
+            "crop": {
+                "id": 3,
+                "name": "Pšenicapšenicapšenicapšenicapšenica",
+                "slug": "Wheatwheatwheatwheatwheat"
+            },
+            "field": {
+                "id": 149,
+                "name": "Polje 2",
+                "surface": "3123.00",
+                "unit": "ha",
+                "ar_code": "Dadsd",
+                "surface_in_m2": "31230000.00"
+            },
+            "value": "50000.0000",
+            "currency": "HRK",
+            "quantity": "5005.00",
+            "unit": "kg",
+            "date": {
+                "display": "14 November 2019",
+                "date": "2019-11-14",
+                "datetime": "2019-11-14 00:00:00",
+                "timestamp": 1573689600,
+                "datepicker_format": "11/14/2019 00:00 am"
+            }
+        },
+        {
+            "id": 113,
+            "type": {
+                "id": 16,
+                "name": "Prodaja",
+                "slug": "Sale",
+                "type": "profit",
+                "show_quantity_and_unit": true
+            },
+            "crop": {
+                "id": 3,
+                "name": "Pšenicapšenicapšenicapšenicapšenica",
+                "slug": "Wheatwheatwheatwheatwheat"
+            },
+            "field": {
+                "id": 149,
+                "name": "Polje 2",
+                "surface": "3123.00",
+                "unit": "ha",
+                "ar_code": "Dadsd",
+                "surface_in_m2": "31230000.00"
+            },
+            "value": "50000.0000",
+            "currency": "HRK",
+            "quantity": "500.00",
+            "unit": "kg",
+            "date": {
+                "display": "14 November 2019",
+                "date": "2019-11-14",
+                "datetime": "2019-11-14 00:00:00",
+                "timestamp": 1573689600,
+                "datepicker_format": "11/14/2019 00:00 am"
+            }
+        }
+    ]
+}

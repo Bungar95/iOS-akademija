@@ -1,0 +1,27 @@
+{
+    "http_code": 200,
+    "message": "Success",
+    "method": "GET",
+    "base_url": "http://agrodox.devtvornica.org",
+    "uri": "api/v1/fields",
+    "query_parameters": [],
+    "errors": null,
+    "data": [
+        {
+            "id": 136,
+            "name": "Kupreško polje",
+            "surface": "55.00",
+            "unit": "km²",
+            "ar_code": "199",
+            "surface_in_m2": "55000000.00"
+        },
+        {
+            "id": 141,
+            "name": "Ivanova livada",
+            "surface": "505.00",
+            "unit": "m²",
+            "ar_code": "1995",
+            "surface_in_m2": "505.00"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "http_code": 200,
+    "message": "Success",
+    "method": "GET",
+    "base_url": "http://localhost:8000",
+    "uri": "api/v1/calculators/fertilizer-calculator?area_size=100&area_size_unit=j&crop_id=6&is_organic=0",
+    "query_parameters": {
+        "area_size": "100",
+        "area_size_unit": "j",
+        "crop_id": "6",
+        "is_organic": "0"
+    },
+    "data": [
+        {
+            "id": 2,
+            "name": "Second",
+            "slug": "b",
+            "products": [
+                {
+                    "id": 25,
+                    "name": "L7",
+                    "short_description": "<p>11</p>",
+                    "full_description": "<p>11</p>",
+                    "package_unit": "l",
+                    "is_organic": false,
+                    "max_value": 5754.642,
+                    "note": "every 10 days"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "First",
+            "slug": "a",
+            "products": [
+                {
+                    "id": 24,
+                    "name": "G8",
+                    "short_description": "<p>123</p>",
+                    "full_description": "<p>1243543</p>",
+                    "package_unit": "l",
+                    "is_organic": false,
+                    "min_value": 575.4642,
+                    "max_value": 1150.9284
+                },
+                {
+                    "id": 26,
+                    "name": "XYZ",
+                    "short_description": "<p>111</p>",
+                    "full_description": "<p>111</p>",
+                    "package_unit": "l",
+                    "is_organic": false,
+                    "max_value": 2877.321
+                }
+            ]
+        }
+    ]
+}
